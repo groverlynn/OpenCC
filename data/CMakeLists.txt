@@ -19,6 +19,16 @@ set(
   JPVariants
   JPShinjitaiCharacters
   JPShinjitaiPhrases
+  EmojiCategoryS
+  EmojiWordS
+  EmojiCategoryT
+  EmojiWordT
+  EmojiCategoryTW
+  EmojiWordTW
+  EmojiCategoryHK
+  EmojiWordHK
+  EmojiCategoryEN
+  EmojiWordEN
 )
 
 set(
@@ -176,6 +186,11 @@ set(CONFIG_FILES
   config/tw2s.json
   config/tw2sp.json
   config/tw2t.json
+  config/s2emoji.json
+  config/t2emoji.json
+  config/hk2emoji.json
+  config/tw2emoji.json
+  config/en2emoji.json
 )
 
 install(

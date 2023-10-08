@@ -1,0 +1,22 @@
+{
+  "name": "Traditional Chinese (Hong Kong Variant) to Emoji",
+  "segmentation": {
+    "type": "mmseg",
+    "dict": {
+      "type": "ocd2",
+      "file": "EmojiWordHK.ocd2"
+    }
+  },
+  "conversion_chain": [{
+    "dict": {
+      "type": "group",
+      "dicts": [{
+        "type": "ocd2",
+        "file": "EmojiWordHK.ocd2"
+      }, {
+        "type": "ocd2",
+        "file": "EmojiCategoryHK.ocd2"
+      }]
+    }
+  }]
+}

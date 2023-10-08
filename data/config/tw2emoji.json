@@ -1,0 +1,22 @@
+{
+  "name": "Traditional Chinese (Taiwan Variant) to Emoji",
+  "segmentation": {
+    "type": "mmseg",
+    "dict": {
+      "type": "ocd2",
+      "file": "EmojiWordTW.ocd2"
+    }
+  },
+  "conversion_chain": [{
+    "dict": {
+      "type": "group",
+      "dicts": [{
+        "type": "ocd2",
+        "file": "EmojiWordTW.ocd2"
+      }, {
+        "type": "ocd2",
+        "file": "EmojiCategoryTW.ocd2"
+      }]
+    }
+  }]
+}
