@@ -16,7 +16,7 @@
 # limitations under the License.
 #
 
-PREFIX = /usr
+PREFIX = /opt
 
 .PHONY: build clean node test xcode-build
 
