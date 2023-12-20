@@ -236,11 +236,8 @@ bravo	bravo 👏
 brrr	brrr 🥶
 buzz	buzz 🐝
 bye	bye 👋
-byebye	byebye 👋
+bye-bye	bye-bye 👋
 BZZ	BZZ 🐝
-bzzz	bzzz 🐝
-bzzzz	bzzzz 🐝
-bzzzzz	bzzzzz 🐝
 B型	B型 🅱️
 B型血	B型血 🅱️
 B型血型	B型血型 🅱️
@@ -273,8 +270,8 @@ F1方程式賽車	F1方程式賽車 🏎
 F1賽車	F1賽車 🏎
 flamenco	flamenco 💃
 FM	FM 📻
+formula-one	formula-one 🏎
 formula1	formula1 🏎
-formulaone	formulaone 🏎
 FREE	FREE 🆓️
 free符號	free符號 🆓️
 Frosty	Frosty ☃️
@@ -313,14 +310,14 @@ IT男	IT男 👨‍💻
 jeans	jeans 👖
 JPY	JPY 💴
 Kaaba	Kaaba 🕋
-kissbye	kissbye 😘
+kiss-bye	kiss-bye 😘
 KTV	KTV 🎤
 K到頭	K到頭 🤕
 K歌	K歌 🪩
 lab	lab 🔬
 laptop	laptop 💻
 LGBT	LGBT 🏳️‍🌈
-LGBTpride旗幟	LGBTpride旗幟 🏳️‍🌈
+LGBT-pride旗幟	LGBT-pride旗幟 🏳️‍🌈
 LGBTQ	LGBTQ 🏳️‍🌈
 LGBT自豪	LGBT自豪 🏳️‍🌈
 LGBT驕傲	LGBT驕傲 🏳️‍🌈
@@ -339,7 +336,7 @@ MD	MD 💽
 MLB	MLB ⚾️
 MLS	MLS ⚽️
 mmmm	mmmm 😋
-moai	moai 🗿
+Moai	Moai 🗿
 moyai	moyai 🗿
 mua	mua 💋 😙
 muah	muah 😘 😚
@@ -404,7 +401,7 @@ Shaka標誌	Shaka標誌 🤙
 Sherlock	Sherlock 🕵️‍♂️
 SherlockHolmes	SherlockHolmes 🕵️‍♂️
 sing	sing 🎵 🎶
-snapstreak	snapstreak 🔥
+snap-streak	snap-streak 🔥
 soon標誌	soon標誌 🔜
 soon標誌的箭嘴	soon標誌的箭嘴 🔜
 soon標誌的箭頭	soon標誌的箭頭 🔜
@@ -417,7 +414,7 @@ SUV	SUV 🚙
 taco	taco 🌮
 TM	TM ™️
 TMD	TMD 🤬
-tnt	tnt 🧨
+TNT	TNT 🧨
 top標誌的箭嘴	top標誌的箭嘴 🔝
 top標誌的箭頭	top標誌的箭頭 🔝
 Triton	Triton 🔱
@@ -8922,7 +8919,7 @@ zzz	zzz 💤 😴
 樂福鞋	樂福鞋 👞
 樂章	樂章 🎼
 樂譜	樂譜 🎼
-樂鍾	樂鍾 🎐
+樂鐘	樂鐘 🎐
 樂隊	樂隊 🎼
 樅木	樅木 🌲
 樅樹	樅樹 🌲

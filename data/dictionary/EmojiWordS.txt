@@ -236,11 +236,8 @@ bravo	bravo 👏
 brrr	brrr 🥶
 buzz	buzz 🐝
 bye	bye 👋
-byebye	byebye 👋
+bye-bye	bye-bye 👋
 BZZ	BZZ 🐝
-bzzz	bzzz 🐝
-bzzzz	bzzzz 🐝
-bzzzzz	bzzzzz 🐝
 B型	B型 🅱️
 B型血	B型血 🅱️
 B型血型	B型血型 🅱️
@@ -273,8 +270,8 @@ F1方程式赛车	F1方程式赛车 🏎
 F1赛车	F1赛车 🏎
 flamenco	flamenco 💃
 FM	FM 📻
+formula-one	formula-one 🏎
 formula1	formula1 🏎
-formulaone	formulaone 🏎
 FREE	FREE 🆓️
 free符号	free符号 🆓️
 Frosty	Frosty ☃️
@@ -313,14 +310,14 @@ IT男	IT男 👨‍💻
 jeans	jeans 👖
 JPY	JPY 💴
 Kaaba	Kaaba 🕋
-kissbye	kissbye 😘
+kiss-bye	kiss-bye 😘
 KTV	KTV 🎤️
 K到头	K到头 🤕
 K歌	K歌 🪩
 lab	lab 🔬
 laptop	laptop 💻
 LGBT	LGBT 🏳️‍🌈
-LGBTpride旗帜	LGBTpride旗帜 🏳️‍🌈
+LGBT-pride旗帜	LGBT-pride旗帜 🏳️‍🌈
 LGBTQ	LGBTQ 🏳️‍🌈
 LGBT自豪	LGBT自豪 🏳️‍🌈
 LGBT骄傲	LGBT骄傲 🏳️‍🌈
@@ -404,7 +401,7 @@ Shaka标志	Shaka标志 🤙
 Sherlock	Sherlock 🕵️‍♂️
 SherlockHolmes	SherlockHolmes 🕵️‍♂️
 sing	sing 🎵 🎶
-snapstreak	snapstreak 🔥
+snap-streak	snap-streak 🔥
 soon标志	soon标志 🔜
 soon标志的箭嘴	soon标志的箭嘴 🔜
 soon标志的箭头	soon标志的箭头 🔜
@@ -417,7 +414,7 @@ SUV	SUV 🚙
 taco	taco 🌮
 TM	TM ™️
 TMD	TMD 🤬
-tnt	tnt 🧨
+TNT	TNT 🧨
 top标志的箭嘴	top标志的箭嘴 🔝
 top标志的箭头	top标志的箭头 🔝
 Triton	Triton 🔱

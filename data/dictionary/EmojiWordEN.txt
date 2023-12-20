@@ -37,648 +37,10 @@
 8	8 🕗 🕣
 9	9 🕘 🕤
 A-OK	A-OK 👌
-ATM	ATM 🏧
-ATMs	ATMs 🏧
-Academy	Academy 🏆
-Afghan	Afghan 🇦🇫
-Afghanistan	Afghanistan 🇦🇫
-Africa	Africa 🌍
-Akita	Akita 🐕
-Aland	Aland 🇦🇽
-Albania	Albania 🇦🇱
-Albanian	Albanian 🇦🇱
-Algeria	Algeria 🇩🇿
-Algerian	Algerian 🇩🇿
-Amen	Amen 🙏
-America	America 🌎
-American	American 🇦🇸 🇺🇸
-Andorra	Andorra 🇦🇩
-Andorran	Andorran 🇦🇩
-Angola	Angola 🇦🇴
-Angolan	Angolan 🇦🇴
-Anguilla	Anguilla 🇦🇮
-Anguillan	Anguillan 🇦🇮
-Antarctic	Antarctic 🇦🇶
-Antarctica	Antarctica 🇦🇶
-Antigua	Antigua 🇦🇬
-Antiguan	Antiguan 🇦🇬
-Aquarius	Aquarius ♒️
-Argentina	Argentina 🇦🇷
-Argentinian	Argentinian 🇦🇷
-Aries	Aries ♈️
-Arizona	Arizona 🌵
-Armenia	Armenia 🇦🇲
-Armenian	Armenian 🇦🇲
-Arnold	Arnold 🍹
-Aruba	Aruba 🇦🇼
-Aruban	Aruban 🇦🇼
-Arwen	Arwen 🧝‍♀️
-Ascension	Ascension 🇦🇨
-Australia	Australia 🇦🇺
-Australian	Australian 🇦🇺
-Austria	Austria 🇦🇹
-Austrian	Austrian 🇦🇹
-Azerbaijan	Azerbaijan 🇦🇿
-Azerbaijani	Azerbaijani 🇦🇿
-BAM	BAM 💥
-BBQ	BBQ 🍖 🍗
-BFF	BFF 👯‍♀️
-BFFs	BFFs 👯‍♀️ 👯‍♂️
-BIOT	BIOT 🇮🇴
-Bahamas	Bahamas 🇧🇸
-Bahamian	Bahamian 🇧🇸
-Bahrain	Bahrain 🇧🇭
-Bahraini	Bahraini 🇧🇭
-Balmorals	Balmorals 👞
-Bangladesh	Bangladesh 🇧🇩
-Bangladeshi	Bangladeshi 🇧🇩
-Barbadian	Barbadian 🇧🇧
-Barbados	Barbados 🇧🇧
-Barbudan	Barbudan 🇦🇬
-Barthélemois	Barthélemois 🇧🇱
-Basotho	Basotho 🇱🇸
-Belarus	Belarus 🇧🇾
-Belarusian	Belarusian 🇧🇾
-Belgian	Belgian 🇧🇪
-Belgium	Belgium 🇧🇪
-Belize	Belize 🇧🇿
-Belizean	Belizean 🇧🇿
-Benin	Benin 🇧🇯
-Beninese	Beninese 🇧🇯
-Bermuda	Bermuda 🇧🇲
-Bermudan	Bermudan 🇧🇲
-Bhutan	Bhutan 🇧🇹
-Bhutanese	Bhutanese 🇧🇹
-Bissau-Guinean	Bissau-Guinean 🇬🇼
-Blüchers	Blüchers 👞
-Bolivia	Bolivia 🇧🇴
-Bolivian	Bolivian 🇧🇴
-Bonaire	Bonaire 🇧🇶
-Bosnia	Bosnia 🇧🇦
-Bosnian	Bosnian 🇧🇦
-Botswana	Botswana 🇧🇼
-Botswanan	Botswanan 🇧🇼
-Brazil	Brazil 🇧🇷
-Brazilian	Brazilian 🇧🇷
-Britain	Britain 🇬🇧
-Broadway	Broadway 🎭
-Brunei	Brunei 🇧🇳
-Bruneian	Bruneian 🇧🇳
-Buddhism	Buddhism ☸️
-Budhism	Budhism 🕉
-Bulgaria	Bulgaria 🇧🇬
-Bulgarian	Bulgarian 🇧🇬
-Burkina	Burkina 🇧🇫
-Burkinabe	Burkinabe 🇧🇫
-Burma	Burma 🇲🇲
-Burmese	Burmese 🇲🇲
-Burundi	Burundi 🇧🇮
-Burundian	Burundian 🇧🇮
-Byzantine	Byzantine ☦️
-CD	CD 💿
-CDs	CDs 💿
-CEO	CEO 👨‍💼 👩‍💼
-CFO	CFO 👨‍💼 👩‍💼
-CL	CL 🆑
-CPA	CPA 👨‍💼 👩‍💼
-Cambodia	Cambodia 🇰🇭
-Cambodian	Cambodian 🇰🇭
-Cameroon	Cameroon 🇨🇲
-Cameroonian	Cameroonian 🇨🇲
-Canada	Canada 🇨🇦
-Canadian	Canadian 🇨🇦 🍁
-Canary	Canary 🇮🇨
-Cancer	Cancer ♋️
-Cape	Cape 🇨🇻
-Capricorn	Capricorn ♑️
-Caribbean	Caribbean 🇳🇱
-Catholic	Catholic ✝️
-Catholicism	Catholicism ✝️
-Cayman	Cayman 🇰🇾
-Central	Central 🇨🇫
-Cessna	Cessna 🛩
-Chad	Chad 🇹🇩
-Chadian	Chadian 🇹🇩
-Channel	Channel 🇬🇬 🇯🇪
-Chanukah	Chanukah 🕎
-Chile	Chile 🇨🇱
-Chilean	Chilean 🇨🇱
-China	China 🇨🇳
-Chinese	Chinese 🇨🇳
-Christian	Christian ⛪️ ✝️
-Christianity	Christianity ✝️
-Christmas	Christmas 🇨🇽 🎄 🤶
-Claus	Claus 🤶
-Cocos	Cocos 🇨🇨
-Colombia	Colombia 🇨🇴
-Colombian	Colombian 🇨🇴
-Comoran	Comoran 🇰🇲
-Comoros	Comoros 🇰🇲
-Congo	Congo 🇨🇩 🇨🇬
-Congolese	Congolese 🇨🇩 🇨🇬
-Cook	Cook 🇨🇰
-Costa	Costa 🇨🇷
-Croatia	Croatia 🇭🇷
-Croatian	Croatian 🇭🇷
-Cuba	Cuba 🇨🇺
-Cuban	Cuban 🇨🇺
-Curacao	Curacao 🇨🇼
-Curaçao	Curaçao 🇨🇼
-Curaçaoan	Curaçaoan 🇨🇼
-Cypriot	Cypriot 🇨🇾
-Cyprus	Cyprus 🇨🇾
-Czech	Czech 🇨🇿
-Czechia	Czechia 🇨🇿
-Côte	Côte 🇨🇮
-DNA	DNA 🧬
-DVD	DVD 📀
-DVDs	DVDs 📀
-Danish	Danish 🇩🇰
-Darjeeling	Darjeeling ☕️
-Deaf	Deaf 🧏 🧏‍♀️ 🧏‍♂️
-Death	Death 🌵 🏜
-Democratic	Democratic 🇨🇩
-Denmark	Denmark 🇩🇰
-Djibouti	Djibouti 🇩🇯
-Djiboutian	Djiboutian 🇩🇯
-Dolphins	Dolphins 🐬
-Dominica	Dominica 🇩🇲
-Dominican	Dominican 🇩🇲 🇩🇴
-Dracula	Dracula 🧛‍♂️
-Dutch	Dutch 🇳🇱
-E	E 👽
-EMT	EMT 🚑
-ET	ET 👽
-EU	EU 💶
-EUR	EUR 💶
-EarPods	EarPods 🎧
-Earl	Earl ☕️
-Easter	Easter 🐣 🗿
-Ecuador	Ecuador 🇪🇨
-Ecuadorean	Ecuadorean 🇪🇨
-Egypt	Egypt 🇪🇬
-Egyptian	Egyptian 🇪🇬
-El	El 🇸🇻
-Elrond	Elrond 🧝‍♂️
-Emergency	Emergency 🚨
-Emirates	Emirates 🇦🇪
-Emirati	Emirati 🇦🇪
-England	England 🏴󠁧󠁢󠁥󠁮󠁧󠁿
-English	English ☕️ 🏴󠁧󠁢󠁥󠁮󠁧󠁿
-Equatoguinean	Equatoguinean 🇬🇶
-Equatorial	Equatorial 🇬🇶
-Eritrea	Eritrea 🇪🇷
-Eritrean	Eritrean 🇪🇷
-Estonia	Estonia 🇪🇪
-Estonian	Estonian 🇪🇪
-Ethiopia	Ethiopia 🇪🇹
-Ethiopian	Ethiopian 🇪🇹
-Euro	Euro 💶
-Euros	Euros 💶
-Eyjafjallajökull	Eyjafjallajökull 🌋
-FM	FM 📻
-Falkland	Falkland 🇫🇰
-Faroe	Faroe 🇫🇴
-Father	Father 🎅
-Fiji	Fiji 🇫🇯
-Fijian	Fijian 🇫🇯
-Filipino	Filipino 🇵🇭
-Finland	Finland 🇫🇮
-Finnish	Finnish 🇫🇮
-Fourth	Fourth 🇺🇸
-France	France 🇫🇷
-Fro-Yo	Fro-Yo 🍦
-Frosty	Frosty ☃️
-Futuna	Futuna 🇼🇫
-GB	GB 🇬🇧 💷
-GBP	GBP 💷
-GLBT	GLBT 🏳️‍🌈
-Gabon	Gabon 🇬🇦
-Gabonese	Gabonese 🇬🇦
-Galadriel	Galadriel 🧝‍♀️
-Gambia	Gambia 🇬🇲
-Gambian	Gambian 🇬🇲
-GarageBand	GarageBand 🎸
-Gemini	Gemini ♊️
-Georgia	Georgia 🇬🇪
-Georgian	Georgian 🇬🇪
-German	German 🇩🇪
-Germany	Germany 🇩🇪
-Ghana	Ghana 🇬🇭
-Ghanaian	Ghanaian 🇬🇭
-Gibraltar	Gibraltar 🇬🇮
-Golden	Golden 🌁 🌉 🏆
-Great	Great 🇬🇧
-Greece	Greece 🇬🇷
-Greek	Greek 🇬🇷
-Greenland	Greenland 🇬🇱
-Greenlandic	Greenlandic 🇬🇱
-Grenada	Grenada 🇬🇩
-Grenadian	Grenadian 🇬🇩
-Grenadine	Grenadine 🇻🇨
-Guadeloupe	Guadeloupe 🇬🇵
-Guam	Guam 🇬🇺
-Guamanian	Guamanian 🇬🇺
-Guatemala	Guatemala 🇬🇹
-Guatemalan	Guatemalan 🇬🇹
-Guernsey	Guernsey 🇬🇬
-Guinea	Guinea 🇬🇳
-Guinea-Bissau	Guinea-Bissau 🇬🇼
-Guinean	Guinean 🇬🇳
-Guyana	Guyana 🇬🇾
-Guyanese	Guyanese 🇬🇾
-Haiti	Haiti 🇭🇹
-Haitian	Haitian 🇭🇹
-Halloween	Halloween 🎃 👻
-Hanukah	Hanukah 🕎
-Hanukkah	Hanukkah 🕎
-Hawaiian	Hawaiian 🌺
-Herzegovina	Herzegovina 🇧🇦
-Herzegovinian	Herzegovinian 🇧🇦
-Hinduism	Hinduism 🕉
-Hollywood	Hollywood 🎥
-Holy	Holy 🇻🇦
-Honduran	Honduran 🇭🇳
-Honduras	Honduras 🇭🇳
-HongKong	HongKong 🇭🇰
-Hungarian	Hungarian 🇭🇺
-Hungary	Hungary 🇭🇺
-IAEA	IAEA ☢️
-ID	ID 🎫 🆔
-ILY	ILY 🤟
-IT	IT 👨‍💻 👩‍💻
-Iceland	Iceland 🇮🇸
-Icelandic	Icelandic 🇮🇸
-India	India 🇮🇳
-Indian	Indian 🇮🇳
-Indonesia	Indonesia 🇮🇩
-Indonesian	Indonesian 🇮🇩
-Iran	Iran 🇮🇷
-Iranian	Iranian 🇮🇷
-Iraq	Iraq 🇮🇶
-Iraqi	Iraqi 🇮🇶
-Ireland	Ireland 🇮🇪
-Irish	Irish ☘️ 🇮🇪
-Islam	Islam ☪️
-Islamic	Islamic 🕋
-Isle	Isle 🇮🇲
-Israel	Israel 🇮🇱
-Israeli	Israeli 🇮🇱
-Italian	Italian 🇮🇹 🍕 🍝
-Italy	Italy 🇮🇹
-Ivorian	Ivorian 🇨🇮
-Ivory	Ivory 🇨🇮
-JPY	JPY 💴
-Jamaica	Jamaica 🇯🇲
-Jamaican	Jamaican 🇯🇲
-Japa	Japa 📿
-Jersey	Jersey 🇯🇪
-Jewish	Jewish 🕍
-Jordan	Jordan 🇯🇴
-Jordanian	Jordanian 🇯🇴
-Judaism	Judaism ✡️
-Ka	Ka 🕋
-Kaaba	Kaaba 🕋
-Kazakh	Kazakh 🇰🇿
-Kazakhstan	Kazakhstan 🇰🇿
-Kentucky	Kentucky 🏇 🐎
-Kenya	Kenya 🇰🇪
-Kenyan	Kenyan 🇰🇪
-Kiribati	Kiribati 🇰🇮
-Korea	Korea 🇰🇵 🇰🇷
-Kosovar	Kosovar 🇽🇰
-Kosovo	Kosovo 🇽🇰
-Kris	Kris 🎅
-Kuwait	Kuwait 🇰🇼
-Kuwaiti	Kuwaiti 🇰🇼
-Kyrgyz	Kyrgyz 🇰🇬
-Kyrgyzstan	Kyrgyzstan 🇰🇬
-Kyrgyzstani	Kyrgyzstani 🇰🇬
-LGBT	LGBT 🏳️‍🌈
-LGBTQ	LGBTQ 🏳️‍🌈
-LPGA	LPGA ⛳️
-Laos	Laos 🇱🇦
-Laotian	Laotian 🇱🇦
-Latin	Latin ✝️
-Latvia	Latvia 🇱🇻
-Latvian	Latvian 🇱🇻
-Lebanese	Lebanese 🇱🇧
-Lebanon	Lebanon 🇱🇧
-Legolas	Legolas 🧝‍♂️
-Leo	Leo ♌️
-Lesotho	Lesotho 🇱🇸
-Liberia	Liberia 🇱🇷
-Liberian	Liberian 🇱🇷
-Liberty	Liberty 🗽
-Libra	Libra ♎️
-Libya	Libya 🇱🇾
-Libyan	Libyan 🇱🇾
-Liechtenstein	Liechtenstein 🇱🇮
-Lithuania	Lithuania 🇱🇹
-Lithuanian	Lithuanian 🇱🇹
-Loafers	Loafers 👞
-Long	Long 🍹
-Luxembourg	Luxembourg 🇱🇺
-Luxembourgish	Luxembourgish 🇱🇺
-M	M Ⓜ️
-MLB	MLB ⚾️
-MLS	MLS ⚽️
-Mac	Mac 💻 🖥
-MacBook	MacBook 💻
-MacBooks	MacBooks 💻
-Macanese	Macanese 🇲🇴
-Macao	Macao 🇲🇴
-Macau	Macau 🇲🇴
-Macedonia	Macedonia 🇲🇰
-Macedonian	Macedonian 🇲🇰
-Madagascar	Madagascar 🇲🇬
-Mahoran	Mahoran 🇾🇹
-Mai	Mai 🍹
-Malagasy	Malagasy 🇲🇬
-Malawi	Malawi 🇲🇼
-Malawian	Malawian 🇲🇼
-Malaysia	Malaysia 🇲🇾
-Malaysian	Malaysian 🇲🇾
-Maldives	Maldives 🇲🇻
-Maldivian	Maldivian 🇲🇻
-Mali	Mali 🇲🇱
-Malian	Malian 🇲🇱
-Malta	Malta 🇲🇹
-Maltese	Maltese 🇲🇹
-Manx	Manx 🇮🇲
-Marshall	Marshall 🇲🇭
-Martian	Martian 👽
-Martians	Martians 👽
-Martiniquais	Martiniquais 🇲🇶
-Martinique	Martinique 🇲🇶
-Mauritania	Mauritania 🇲🇷
-Mauritanian	Mauritanian 🇲🇷
-Mauritian	Mauritian 🇲🇺
-Mauritius	Mauritius 🇲🇺
-Mayotte	Mayotte 🇾🇹
-Mecca	Mecca 🕋
-Merlin	Merlin 🧙‍♂️
-Mexican	Mexican 🇲🇽 🌮 🌯
-Mexico	Mexico 🇲🇽
-Micronesia	Micronesia 🇫🇲
-Micronesian	Micronesian 🇫🇲
-Milky	Milky 🌌
-Miquelonnais	Miquelonnais 🇵🇲
-Mojave	Mojave 🏜
-Moldova	Moldova 🇲🇩
-Moldovan	Moldovan 🇲🇩
-Monacan	Monacan 🇲🇨
-Monaco	Monaco 🇲🇨
-Mongolia	Mongolia 🇲🇳
-Mongolian	Mongolian 🇲🇳
-Montenegrin	Montenegrin 🇲🇪
-Montenegro	Montenegro 🇲🇪
-Montserrat	Montserrat 🇲🇸
-Montserratan	Montserratan 🇲🇸
-Monégasque	Monégasque 🇲🇨
-Moroccan	Moroccan 🇲🇦
-Morocco	Morocco 🇲🇦
-Moscow	Moscow 🍹
-Mother	Mother 🤶
-Mount	Mount 🌋 🗻
-Mozambican	Mozambican 🇲🇿
-Mozambique	Mozambique 🇲🇿
-Mr	Mr 🎅
-Mrs	Mrs 🤶
-Mt	Mt 🌋 🗻
-Muslim	Muslim 🕌
-Myanmar	Myanmar 🇲🇲
-NBA	NBA 🏀
-NFL	NFL 🏈
-Namibia	Namibia 🇳🇦
-Namibian	Namibian 🇳🇦
-Nauru	Nauru 🇳🇷
-Nauruan	Nauruan 🇳🇷
-Nepal	Nepal 🇳🇵
-Nepalese	Nepalese 🇳🇵
-Netherlands	Netherlands 🇳🇱
-Nevada	Nevada 🌵
-Nevis	Nevis 🇰🇳
-Nicaragua	Nicaragua 🇳🇮
-Nicaraguan	Nicaraguan 🇳🇮
-Niger	Niger 🇳🇪
-Nigeria	Nigeria 🇳🇬
-Nigerian	Nigerian 🇳🇬
-Nigerien	Nigerien 🇳🇪
-Niue	Niue 🇳🇺
-Niuean	Niuean 🇳🇺
-Norfolk	Norfolk 🇳🇫
-North	North 🇰🇵 🇲🇰
-Northern	Northern 🇲🇵
-Norway	Norway 🇳🇴
-Norwegian	Norwegian 🇳🇴
-OK	OK 👌 🆗
-Oden	Oden 🍢
-Old	Old 👨‍🌾 👩‍🌾
-Oman	Oman 🇴🇲
-Omani	Omani 🇴🇲
-Ophiuchus	Ophiuchus ⛎
-Orthodox	Orthodox ☦️
-Oxfords	Oxfords 👞
-PGA	PGA ⛳️
-PI	PI 🕵️‍♀️ 🕵️‍♂️
-POW	POW 💥
-Pakistan	Pakistan 🇵🇰
-Pakistani	Pakistani 🇵🇰
-Palau	Palau 🇵🇼
-Palauan	Palauan 🇵🇼
-Palestine	Palestine 🇵🇸
-Palestinian	Palestinian 🇵🇸
-Panama	Panama 🇵🇦
-Panamanian	Panamanian 🇵🇦
-Papua	Papua 🇵🇬
-Papuan	Papuan 🇵🇬
-Paraguay	Paraguay 🇵🇾
-Paraguayan	Paraguayan 🇵🇾
-People	People 🇨🇳
-Peoples	Peoples 🇨🇳
-Peru	Peru 🇵🇪
-Peruvian	Peruvian 🇵🇪
-Philippine	Philippine 🇵🇭
-Philippines	Philippines 🇵🇭
-Pimm	Pimm 🍹
-Pisces	Pisces ♓️
-Pitcairn	Pitcairn 🇵🇳
-Poland	Poland 🇵🇱
-Polish	Polish 🇵🇱
-Portugal	Portugal 🇵🇹
-Portuguese	Portuguese 🇵🇹
-Puerto	Puerto 🇵🇷
-Qatar	Qatar 🇶🇦
-Qatari	Qatari 🇶🇦
-RIP	RIP 💀
-RV	RV 🚙
-Republic	Republic 🇨🇬 🇮🇪 🇹🇼
-Romania	Romania 🇷🇴
-Romanian	Romanian 🇷🇴
-Russia	Russia 🇷🇺
-Russian	Russian ☦️ 🇷🇺
-Rwanda	Rwanda 🇷🇼
-Rwandan	Rwandan 🇷🇼
-Réunion	Réunion 🇷🇪
-Réunionese	Réunionese 🇷🇪
-Réunionnais	Réunionnais 🇷🇪
-SARS	SARS 😷
-SMH	SMH 🤦‍♀️ 🤦‍♂️
-SOS	SOS 🆘
-SUV	SUV 🚙
-Sagittarius	Sagittarius ♐️
-Sahrawi	Sahrawi 🇪🇭
-Saint-Pierrais	Saint-Pierrais 🇵🇲
-Salvadorean	Salvadorean 🇸🇻
-Sammarinese	Sammarinese 🇸🇲
-Samoa	Samoa 🇼🇸
-Samoan	Samoan 🇼🇸
-San	San 🇸🇲
-Santa	Santa 🎅
-Sao	Sao 🇸🇹
-Saudi	Saudi 🇸🇦
-Scorpio	Scorpio ♏️
-Scotland	Scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿
-Scottish	Scottish 🏴󠁧󠁢󠁳󠁣󠁴󠁿
-Seabiscuit	Seabiscuit 🏇
-Secretariat	Secretariat 🏇
-Senegal	Senegal 🇸🇳
-Senegalese	Senegalese 🇸🇳
-Serbia	Serbia 🇷🇸
-Serbian	Serbian 🇷🇸
-Seychelles	Seychelles 🇸🇨
-Seychellois	Seychellois 🇸🇨
-Sherlock	Sherlock 🕵️‍♀️ 🕵️‍♂️
-Shinkansen	Shinkansen 🚅
-Shinto	Shinto ⛩️
-Sierra	Sierra 🇸🇱
-Singapore	Singapore 🇸🇬
-Singaporean	Singaporean 🇸🇬
-Sint	Sint 🇸🇽
-Slovak	Slovak 🇸🇰
-Slovakia	Slovakia 🇸🇰
-Slovene	Slovene 🇸🇮
-Slovenia	Slovenia 🇸🇮
-Slovenian	Slovenian 🇸🇮
-Solomon	Solomon 🇸🇧
-Somali	Somali 🇸🇴
-Somalia	Somalia 🇸🇴
-Spain	Spain 🇪🇸
-Spanish	Spanish 🇪🇸
-Spock	Spock 🖖
-Sri	Sri 🇱🇰
-St	St ☘️ 🌋
-Stanley	Stanley 🏆
-Star	Star ✡️
-State	State 🇵🇸
-Statue	Statue 🗽
-Sudan	Sudan 🇸🇩
-Sudanese	Sudanese 🇸🇩
-Suriname	Suriname 🇸🇷
-Surinamese	Surinamese 🇸🇷
-Swazi	Swazi 🇸🇿
-Swaziland	Swaziland 🇸🇿
-Sweden	Sweden 🇸🇪
-Swedish	Swedish 🇸🇪
-Swiss	Swiss 🇨🇭
-Switzerland	Switzerland 🇨🇭
-Syria	Syria 🇸🇾
-Syrian	Syrian 🇸🇾
-São	São 🇸🇹
-T-Rex	T-Rex 🦖
-TM	TM ™️
-TTFN	TTFN 👋
-TV	TV 📺
-Tadjik	Tadjik 🇹🇯
-Taiwan	Taiwan 🇹🇼
-Taiwanese	Taiwanese 🇹🇼
-Tajik	Tajik 🇹🇯
-Tajikistan	Tajikistan 🇹🇯
-Tanzania	Tanzania 🇹🇿
-Tanzanian	Tanzanian 🇹🇿
-Taurus	Taurus ♉️
-Texas	Texas 🌵
-Thai	Thai 🇹🇭
-Thailand	Thailand 🇹🇭
-The	The 🏛 🗽
-Tian	Tian 🐼
-Timor-Leste	Timor-Leste 🇹🇱
-Timorese	Timorese 🇹🇱
-Tobago	Tobago 🇹🇹
-Tobagonian	Tobagonian 🇹🇹
-Togo	Togo 🇹🇬
-Togolese	Togolese 🇹🇬
-Tokelau	Tokelau 🇹🇰
-Tokelauan	Tokelauan 🇹🇰
-Tokyo	Tokyo 🗼
-Tonga	Tonga 🇹🇴
-Tongan	Tongan 🇹🇴
-Trinidad	Trinidad 🇹🇹
-Trinidadian	Trinidadian 🇹🇹
-Triton	Triton 🔱 🧜‍♂️
-Tunisia	Tunisia 🇹🇳
-Tunisian	Tunisian 🇹🇳
-Turkey	Turkey 🇹🇷
-Turkish	Turkish 🇹🇷
-Turkmen	Turkmen 🇹🇲
-Turkmenistan	Turkmenistan 🇹🇲
-Turkoman	Turkoman 🇹🇲
-Turks	Turks 🇹🇨
-Tuvalu	Tuvalu 🇹🇻
-Tuvaluan	Tuvaluan 🇹🇻
-Tyrannosaurus	Tyrannosaurus 🦖
-U	U 🇺🇳 🇺🇸 🇻🇮
-UAE	UAE 🇦🇪
-UFO	UFO 🛸
-UFOs	UFOs 🛸
-UK	UK 🇬🇧 💷
-UN	UN 🇺🇳
-US	US 🇺🇸 🇻🇮
-USA	USA 🇺🇸
-Uganda	Uganda 🇺🇬
-Ugandan	Ugandan 🇺🇬
-Ukraine	Ukraine 🇺🇦
-Ukrainian	Ukrainian 🇺🇦
-Union	Union 🇬🇧
-Uruguay	Uruguay 🇺🇾
-Uruguayan	Uruguayan 🇺🇾
-Uzbek	Uzbek 🇺🇿
-Uzbekistan	Uzbekistan 🇺🇿
-VHS	VHS 📼
-Vanuatu	Vanuatu 🇻🇺
-Vanuatuan	Vanuatuan 🇻🇺
-Vatican	Vatican 🇻🇦
-Venezuela	Venezuela 🇻🇪
-Venezuelan	Venezuelan 🇻🇪
-Vesuvius	Vesuvius 🌋
-Vietnam	Vietnam 🇻🇳
-Vietnamese	Vietnamese 🇻🇳
-Vincentian	Vincentian 🇻🇨
-Virgin	Virgin 🇻🇬 🇻🇮
-Virgo	Virgo ♍️
-Vulcan	Vulcan 🖖
-WC	WC 🚽
-Wales	Wales 🏴󠁧󠁢󠁷󠁬󠁳󠁿
-Wallis	Wallis 🇼🇫
-Welsh	Welsh 🏴󠁧󠁢󠁷󠁬󠁳󠁿
-Western	Western 🇪🇭
-X	X ❎
-XO	XO 😘 😚
-XOXO	XOXO 😘 😚
-XX	XX 😘 😚
-Yemen	Yemen 🇾🇪
-Yemeni	Yemeni 🇾🇪
-Yule-tree	Yule-tree 🎄
-Zambia	Zambia 🇿🇲
-Zambian	Zambian 🇿🇲
-Zimbabwe	Zimbabwe 🇿🇼
-Zimbabwean	Zimbabwean 🇿🇼
-Zs	Zs 💤 😴
 a-ok	a-ok 👌
 aaah	aaah 😱
 aaugh	aaugh 😩 😫
-ab	ab 🆎
+AB	AB 🆎
 abaci	abaci 🧮
 abacus	abacus 🧮
 abacuses	abacuses 🧮
@@ -687,7 +49,7 @@ abc	abc 🔤
 abode	abode 🏠 🏡
 absorbent	absorbent 🧽
 absorbing	absorbing 🧽
-academy	academy 🏆
+Academy	Academy 🏆
 acceptable	acceptable 🉑
 accounting	accounting 🧾
 ache	ache 🤒 🤕 😖
@@ -709,39 +71,34 @@ admission	admission 🎟 🎫
 admit	admit 🎟
 admittance	admittance 🎫
 adorable	adorable 😍
-adorbs	adorbs 🥰 😍
-adorbz	adorbz 🥰 😍
 adore	adore 🥰
 adoring	adoring 🥰
 adults	adults 🧑
 aerial	aerial 🗾 🚡
 affectionate	affectionate 🤗
-afghan	afghan 🇦🇫
-afghanistan	afghanistan 🇦🇫
-africa	africa 🌍
+Afghan	Afghan 🇦🇫
+Afghanistan	Afghanistan 🇦🇫
+Africa	Africa 🌍
 agitated	agitated 😠 😣 😬
 agriculture	agriculture 🌾
-ah-choo	ah-choo 🤧
 aha	aha 😤
 ahaha	ahaha 😂
 ahhh	ahhh 😱
 ahoy	ahoy 🏴‍☠️
 airliner	airliner ✈️
 airplanes	airplanes ✈️
-akita	akita 🐕
+Akita	Akita 🐕
 al-Ka	al-Ka 🕋
-al-ka	al-ka 🕋
-aland	aland 🇦🇽
-albania	albania 🇦🇱
-albanian	albanian 🇦🇱
+Aland	Aland 🇦🇽
+Albania	Albania 🇦🇱
+Albanian	Albanian 🇦🇱
 alembic	alembic ⚗️
 alembics	alembics ⚗️
 alert	alert 🚨
-algeria	algeria 🇩🇿
-algerian	algerian 🇩🇿
+Algeria	Algeria 🇩🇿
+Algerian	Algerian 🇩🇿
 alien	alien 👽 👾
 aliens	aliens 👽 👾
-aligator	aligator 🐊
 alligator	alligator 🐊
 alligators	alligators 🐊
 alma	alma 👨‍🎓 👩‍🎓
@@ -758,40 +115,40 @@ amazing	amazing 😉
 amber	amber 🚨
 ambulance	ambulance 🚑
 ambulances	ambulances 🚑
-amen	amen 🙏
-america	america 🌎
-american	american 🇦🇸 🇺🇸 🏈
+Amen	Amen 🙏
+America	America 🌎
+American	American 🇦🇸 🇺🇸 🏈
 americano	americano ☕️
 amoeba	amoeba 🦠
 amoebae	amoebae 🦠
 amoebas	amoebas 🦠
 amphora	amphora 🏺
-amtrak	amtrak 🚞
+Amtrak	Amtrak 🚞
 amulet	amulet 🧿
 amulets	amulets 🧿
 an	an 🏆
 anchor	anchor ⚓️
-andorra	andorra 🇦🇩
-andorran	andorran 🇦🇩
+Andorra	Andorra 🇦🇩
+Andorran	Andorran 🇦🇩
 ang	ang 🧧
 angel	angel 👼 😇
 angelfish	angelfish 🐠
 angels	angels 👼
 anger	anger 💢
-angola	angola 🇦🇴
-angolan	angolan 🇦🇴
-anguilla	anguilla 🇦🇮
-anguillan	anguillan 🇦🇮
+Angola	Angola 🇦🇴
+Angolan	Angolan 🇦🇴
+Anguilla	Anguilla 🇦🇮
+Anguillan	Anguillan 🇦🇮
 anguished	anguished 😧
 angus	angus 🍔
 another	another 🎬
 ant	ant 🐜
-antarctic	antarctic 🇦🇶
-antarctica	antarctica 🇦🇶
+Antarctic	Antarctic 🇦🇶
+Antarctica	Antarctica 🇦🇶
 antenna	antenna 📡 📶
 anti-bullying	anti-bullying 👁‍🗨
-antigua	antigua 🇦🇬
-antiguan	antiguan 🇦🇬
+Antigua	Antigua 🇦🇬
+Antiguan	Antiguan 🇦🇬
 ants	ants 🐜
 apartment	apartment 🏚 🏠 🏡
 apathetic	apathetic 😐 😑
@@ -805,6 +162,7 @@ appletini	appletini 🍸
 application	application 🈸
 apprehensive	apprehensive 😩 😫 😬
 aquarium	aquarium 🐟 🐠
+Aquarius	Aquarius ♒️
 aquarius	aquarius ♒️
 arachnid	arachnid 🕷
 arachnids	arachnids 🕷
@@ -813,15 +171,16 @@ archer	archer ♐️
 archery	archery 🏹
 architecture	architecture 🏛
 arctic	arctic 🥶
-argentina	argentina 🇦🇷
-argentinian	argentinian 🇦🇷
+Argentina	Argentina 🇦🇷
+Argentinian	Argentinian 🇦🇷
+Aries	Aries ♈️
 aries	aries ♈️
-arizona	arizona 🌵
+Arizona	Arizona 🌵
 arm	arm 🦾
-armenia	armenia 🇦🇲
-armenian	armenian 🇦🇲
+Armenia	Armenia 🇦🇲
+Armenian	Armenian 🇦🇲
 arms	arms 🦾 🙅‍♀️ 🙅‍♂️
-arnold	arnold 🍹
+Arnold	Arnold 🍹
 arrival	arrival 🛬
 arrogant	arrogant 😤
 articulated	articulated 🚛
@@ -830,12 +189,13 @@ artiste	artiste 👨‍🎨 👩‍🎨
 artistic	artistic 🎨
 arts	arts 🎭
 artwork	artwork 🖼
-aruba	aruba 🇦🇼
-aruban	aruban 🇦🇼
-arwen	arwen 🧝‍♀️
+Aruba	Aruba 🇦🇼
+Aruban	Aruban 🇦🇼
+Arwen	Arwen 🧝‍♀️
+Ascension	Ascension 🇦🇨
 ascension	ascension 🇦🇨
 ashamed	ashamed 🙈
-asia	asia 🌏
+Asia	Asia 🌏
 asleep	asleep 💤 😴
 aspen	aspen 🌳
 aspens	aspens 🌳
@@ -845,15 +205,15 @@ asteroid	asteroid ☄️
 asteroids	asteroids ☄️
 atchoo	atchoo 🤧
 athletes	athletes 🧗‍♀️ 🧗‍♂️
-atm	atm 🏧
-atms	atms 🏧
+ATM	ATM 🏧
+ATMs	ATMs 🏧
 atom	atom ⚛️
 atoms	atoms ⚛️
 aum	aum 🕉
-australia	australia 🇦🇺 🦘
-australian	australian 🇦🇺 🦘
-austria	austria 🇦🇹
-austrian	austrian 🇦🇹
+Australia	Australia 🇦🇺 🦘
+Australian	Australian 🇦🇺 🦘
+Austria	Austria 🇦🇹
+Austrian	Austrian 🇦🇹
 auto	auto 🛺
 automobile	automobile 🚕 🚗 🚙
 automobiles	automobiles 🚗
@@ -869,8 +229,8 @@ axe	axe 🪓
 axes	axes 🪓
 azalea	azalea 🌺
 azaleas	azaleas 🌺
-azerbaijan	azerbaijan 🇦🇿
-azerbaijani	azerbaijani 🇦🇿
+Azerbaijan	Azerbaijan 🇦🇿
+Azerbaijani	Azerbaijani 🇦🇿
 b	b 🅱️
 baa	baa 🐑
 babies	babies 👶
@@ -893,10 +253,10 @@ bags	bags 💼 🧳 🛍
 baguette	baguette 🥖
 baguettes	baguettes 🥖
 bahaha	bahaha 🤣 😂
-bahamas	bahamas 🇧🇸
-bahamian	bahamian 🇧🇸
-bahrain	bahrain 🇧🇭
-bahraini	bahraini 🇧🇭
+Bahamas	Bahamas 🇧🇸
+Bahamian	Bahamian 🇧🇸
+Bahrain	Bahrain 🇧🇭
+Bahraini	Bahraini 🇧🇭
 baker	baker 👨‍🍳 👩‍🍳
 bakeries	bakeries 🥯 🧁
 bakery	bakery 🥯 🧁
@@ -913,7 +273,7 @@ balloons	balloons 🎈
 ballot	ballot ☑️ 🗳
 ballpoint	ballpoint 🖊
 balmorals	balmorals 👞
-bam	bam 💥
+BAM	BAM 💥
 bamboo	bamboo 🎍
 banana	banana 🍌
 band-aid	band-aid 🩹
@@ -922,21 +282,21 @@ bandage	bandage 🤕 🩹
 bandaged	bandaged 🤕
 bandaid	bandaid 🩹
 bandaids	bandaids 🩹
-bangladesh	bangladesh 🇧🇩
-bangladeshi	bangladeshi 🇧🇩
+Bangladesh	Bangladesh 🇧🇩
+Bangladeshi	Bangladeshi 🇧🇩
 banjo	banjo 🪕
 banjos	banjos 🪕
 banknote	banknote 💸
 banknotes	banknotes 💵 💸
 banks	banks 🏦
-barbadian	barbadian 🇧🇧
-barbados	barbados 🇧🇧
+Barbadian	Barbadian 🇧🇧
+Barbados	Barbados 🇧🇧
 barber	barber 💈
 barbera	barbera 🍷
 barbers	barbers 💈
 barbershop	barbershop 💈
 barbershops	barbershops 💈
-barbudan	barbudan 🇦🇬
+Barbudan	Barbudan 🇦🇬
 bare	bare 🦶
 barefoot	barefoot 🦶
 barf	barf 🤢 🤮
@@ -946,7 +306,7 @@ barfs	barfs 🤮
 bargain	bargain 🉐
 barge	barge ⛴️ 🚢
 bars	bars 📶 🧼
-barthélemois	barthélemois 🇧🇱
+Barthélemois	Barthélemois 🇧🇱
 bartlett	bartlett 🍐
 base	base ⛺️
 baseball	baseball ⚾️ 🥎 🧢
@@ -956,7 +316,7 @@ basil	basil 🌿
 basket	basket 🧺
 basketballs	basketballs 🏀
 baskets	baskets 🧺
-basotho	basotho 🇱🇸
+Basotho	Basotho 🇱🇸
 bat	bat 🏏 🦇
 bathed	bathed 🧼 🧽
 bathroom	bathroom 🚻 🚽
@@ -967,7 +327,7 @@ bats	bats 🦇
 batteries	batteries 🔋
 battery	battery 🔋
 bawling	bawling 😭
-bbq	bbq 🍖 🍗
+BBQ	BBQ 🍖 🍗
 beach	beach ⛱️ 🏖 🏝
 beads	beads 📿
 bear	bear 🐻
@@ -991,34 +351,34 @@ begging	begging 🥺
 begin	begin 🎬
 beginner	beginner 🔰
 beigel	beigel 🥯
-belarus	belarus 🇧🇾
-belarusian	belarusian 🇧🇾
-belgian	belgian 🇧🇪
-belgium	belgium 🇧🇪
-belize	belize 🇧🇿
-belizean	belizean 🇧🇿
+Belarus	Belarus 🇧🇾
+Belarusian	Belarusian 🇧🇾
+Belgian	Belgian 🇧🇪
+Belgium	Belgium 🇧🇪
+Belize	Belize 🇧🇿
+Belizean	Belizean 🇧🇿
 bell	bell 🔔 🔕 🛎
 bellhop	bellhop 💁‍♀️ 💁‍♂️ 🛎
-benin	benin 🇧🇯
-beninese	beninese 🇧🇯
+Benin	Benin 🇧🇯
+Beninese	Beninese 🇧🇯
 bento	bento 🍱
 bentos	bentos 🍱
-bermuda	bermuda 🇧🇲
-bermudan	bermudan 🇧🇲
+Bermuda	Bermuda 🇧🇲
+Bermudan	Bermudan 🇧🇲
 best	best 👯‍♀️ 🙌
 besties	besties 👯‍♀️ 👯‍♂️
 betting	betting 🎰 🎲
 beverages	beverages 🧃 🧉
 bewildered	bewildered 😕 😳
-bff	bff 👯‍♀️
-bffs	bffs 👯‍♀️ 👯‍♂️
-bhutan	bhutan 🇧🇹
-bhutanese	bhutanese 🇧🇹
+BFF	BFF 👯‍♀️
+BFFs	BFFs 👯‍♀️ 👯‍♂️
+Bhutan	Bhutan 🇧🇹
+Bhutanese	Bhutanese 🇧🇹
 bicep	bicep 💪
 biceps	biceps 💪
 bicycles	bicycles 🚲
 bifocals	bifocals 🤓
-bigfoot	bigfoot 👣
+big-foot	big-foot 👣
 bikes	bikes 🚲
 bikini	bikini 👙
 bill	bill 💸 🧾
@@ -1030,10 +390,10 @@ biohazards	biohazards ☣️
 biological	biological 🧫
 biologist	biologist 👨‍🔬 👩‍🔬 🥼
 biologists	biologists 👨‍🔬 👩‍🔬
-biot	biot 🇮🇴
+Biot	Biot 🇮🇴
 birch	birch 🌳
 birches	birches 🌳
-bissau-guinean	bissau-guinean 🇬🇼
+Bissau-Guinean	Bissau-Guinean 🇬🇼
 blacks	blacks 🏴 🏴‍☠️
 blade	blade ⚙️
 blah	blah 😑 😒 😕
@@ -1073,12 +433,12 @@ bobbins	bobbins 🧵
 bobby	bobby 💂‍♀️ 💂‍♂️
 boiling	boiling 🥵
 bok	bok 🥬
-bolivia	bolivia 🇧🇴
-bolivian	bolivian 🇧🇴
+Bolivia	Bolivia 🇧🇴
+Bolivian	Bolivian 🇧🇴
 bolt	bolt ⚡️ 🔩
 bomb	bomb 💣
 bombs	bombs 💣
-bonaire	bonaire 🇧🇶
+Bonaire	Bonaire 🇧🇶
 bone	bone 🍖 🦴
 bones	bones 🦴
 bonfire	bonfire 🔥
@@ -1098,13 +458,13 @@ boots	boots 👢 🥾
 booze	booze 🍸 🥃
 boozed	boozed 🥴
 bored	bored 😐 😑
-bosnia	bosnia 🇧🇦
-bosnian	bosnian 🇧🇦
+Bosnia	Bosnia 🇧🇦
+Bosnian	Bosnian 🇧🇦
 bot	bot 🤖
 bothered	bothered 😕
 bots	bots 🤖
-botswana	botswana 🇧🇼
-botswanan	botswanan 🇧🇼
+Botswana	Botswana 🇧🇼
+Botswanan	Botswanan 🇧🇼
 bottlenose	bottlenose 🐬
 bouquet	bouquet 💐
 bouquets	bouquets 💐
@@ -1124,8 +484,8 @@ brainy	brainy 🧠
 branch	branch 🌿
 brass	brass 🎷 🎺
 bravo	bravo 👏
-brazil	brazil 🇧🇷
-brazilian	brazilian 🇧🇷
+Brazil	Brazil 🇧🇷
+Brazilian	Brazilian 🇧🇷
 bread	bread 🍞 🥖 🥯
 breakfast	breakfast 🍳 🥞 🧇
 breakfasts	breakfasts 🍳
@@ -1152,7 +512,7 @@ briefs	briefs 🩲
 bright	bright ⭐️ 🌟
 brightest	brightest 🔅 🔆
 brightness	brightness 🔅 🔆
-britain	britain 🇬🇧
+Britain	Britain 🇬🇧
 broadway	broadway 🎭
 broccoli	broccoli 🥦
 broken	broken 💔
@@ -1165,8 +525,8 @@ brooms	brooms 🧹
 broomstick	broomstick 🧹
 broomsticks	broomsticks 🧹
 brrr	brrr 🥶
-brunei	brunei 🇧🇳
-bruneian	bruneian 🇧🇳
+Brunei	Brunei 🇧🇳
+Bruneian	Bruneian 🇧🇳
 brush	brush 🖌
 buahaha	buahaha 🦹‍♀️ 🦹‍♂️ 😈
 buahahaha	buahahaha 🦹‍♀️ 🦹‍♂️
@@ -1174,7 +534,6 @@ bubble	bubble 🧼 🛀 🛁
 buccaneer	buccaneer 🏴‍☠️
 buccaneers	buccaneers 🏴‍☠️
 buddhism	buddhism ☸️
-budhism	budhism 🕉
 buffalo	buffalo 🐃
 buffaloes	buffaloes 🐃
 buffalos	buffalos 🐃
@@ -1183,8 +542,8 @@ buh	buh 👋
 builder	builder 👷‍♀️ 👷‍♂️
 bulb	bulb 💡
 bulbs	bulbs 💡
-bulgaria	bulgaria 🇧🇬
-bulgarian	bulgarian 🇧🇬
+Bulgaria	Bulgaria 🇧🇬
+Bulgarian	Bulgarian 🇧🇬
 bullet	bullet 🚅
 bullhorn	bullhorn 📢
 bullhorns	bullhorns 📢
@@ -1197,19 +556,19 @@ bunnies	bunnies 🐰
 bunny	bunny 🐰 👯‍♀️ 👯‍♂️
 burger	burger 🍔
 burgers	burgers 🍔
-burkina	burkina 🇧🇫
-burkinabe	burkinabe 🇧🇫
+Burkina	Burkina 🇧🇫
+Burkinabe	Burkinabe 🇧🇫
 burlesque	burlesque 👯‍♀️ 👯‍♂️
-burma	burma 🇲🇲
-burmese	burmese 🇲🇲
+Burma	Burma 🇲🇲
+Burmese	Burmese 🇲🇲
 burning	burning 🔥 🥵
 burns	burns 🥵
 burnt	burnt 🥵
 burrito	burrito 🌯
 burritos	burritos 🌯
 burst	burst 💥
-burundi	burundi 🇧🇮
-burundian	burundian 🇧🇮
+Burundi	Burundi 🇧🇮
+Burundian	Burundian 🇧🇮
 busses	busses 🚌 🚎
 bust	bust 👤
 butcher	butcher 🔪
@@ -1222,11 +581,8 @@ buzz	buzz 🐝
 buzzing	buzzing 🐝
 bwahaha	bwahaha 🤣 😂 😈
 bye	bye ✋ ✌️ 👋
-byzantine	byzantine ☦️
+Byzantine	Byzantine ☦️
 bzz	bzz 🐝
-bzzz	bzzz 🐝
-bzzzz	bzzzz 🐝
-bzzzzz	bzzzzz 🐝
 cab	cab 🚕 🚖
 cabbage	cabbage 🥬
 cabernet	cabernet 🍷
@@ -1242,13 +598,13 @@ calendars	calendars 📆
 call	call 🤙
 calligraphy	calligraphy ✒️ 🖋
 calzone	calzone 🍕
-cambodia	cambodia 🇰🇭
-cambodian	cambodian 🇰🇭
+Cambodia	Cambodia 🇰🇭
+Cambodian	Cambodian 🇰🇭
 camel	camel 🐪 🐫
 camels	camels 🐪 🐫
 cameras	cameras 🎥 📷 📸
-cameroon	cameroon 🇨🇲
-cameroonian	cameroonian 🇨🇲
+Cameroon	Cameroon 🇨🇲
+Cameroonian	Cameroonian 🇨🇲
 camp	camp ⛺️ 🏕
 campfire	campfire 🔥
 campfires	campfires 🔥
@@ -1258,10 +614,10 @@ camping	camping ⛺️ 🏕
 campsite	campsite 🏕
 campsites	campsites 🏕
 can	can 🥫
-canada	canada 🇨🇦
-canadian	canadian 🇨🇦 🍁
-canary	canary 🇮🇨
-cancer	cancer ♋️
+Canada	Canada 🇨🇦
+Canadian	Canadian 🇨🇦 🍁
+Canary	Canary 🇮🇨
+Cancer	Cancer ♋️
 candies	candies 🍬 🍭
 candle	candle 🕯
 candles	candles 🎂 🕯
@@ -1271,13 +627,14 @@ canoeing	canoeing 🛶
 canoes	canoes 🛶
 cantaloupe	cantaloupe 🍈
 cantaloupes	cantaloupes 🍈
-cape	cape 🇨🇻 🦸‍♀️ 🦸‍♂️
+Cape Verde	Cape Verde 🇨🇻
+cape	cape 🦸‍♀️ 🦸‍♂️
 capital	capital 🏛 🔠
-capricorn	capricorn ♑️
+Capricorn	Capricorn ♑️
 caps	caps 🧢
 captain	captain 👨‍✈️ 👩‍✈️
 carefree	carefree 💁‍♀️ 💁‍♂️
-caribbean	caribbean 🇳🇱
+Caribbean	Caribbean 🇳🇱
 carnivals	carnivals 🎡
 carousel	carousel 🎠
 carousels	carousels 🎠
@@ -1305,16 +662,16 @@ castle	castle 🏯 🏰
 castles	castles 🏰
 caterpillar	caterpillar 🐛
 caterpillars	caterpillars 🐛
-catholic	catholic ✝️
-catholicism	catholicism ✝️
+Catholic	Catholic ✝️
+Catholicism	Catholicism ✝️
 cats	cats 🐈 🐱
 cattle	cattle 🐂 🐄 🐮
 causes	causes 🎗
 cavities	cavities 🦷
 cavity	cavity 🦷
-cayman	cayman 🇰🇾
-cd	cd 💽 💿 📀
-cds	cds 💿
+Cayman	Cayman 🇰🇾
+CD	CD 💽 💿 📀
+CDs	CDs 💿
 celebrate	celebrate 🍾 🎉 🎊
 celebrating	celebrating 🍻 🍾 🥳
 celebrations	celebrations 🎉 🎊 🥳
@@ -1326,15 +683,15 @@ cellphone	cellphone 📱 📲
 cellphones	cellphones 📱
 cellular	cellular 📶
 censored	censored 🤬
-central	central 🇨🇫
-ceo	ceo 👨‍💼 👩‍💼
+CentralAfrica	CentralAfrica 🇨🇫
+CEO	CEO 👨‍💼 👩‍💼
 cereal	cereal 🥣
 ceremony	ceremony 🎖 🏅 🏆
 cerveza	cerveza 🍺
-cessna	cessna 🛩
-cfo	cfo 👨‍💼 👩‍💼
-chad	chad 🇹🇩
-chadian	chadian 🇹🇩
+Cessna	Cessna 🛩
+CFO	CFO 👨‍💼 👩‍💼
+Chad	Chad 🇹🇩
+Chadian	Chadian 🇹🇩
 chai	chai ☕️
 chains	chains ⛓️
 chair	chair 🪑
@@ -1342,8 +699,8 @@ chairs	chairs 🪑
 chalupa	chalupa 🌮
 champagne	champagne 🍾 🥂
 change	change 👛
-channel	channel 🇬🇬 🇯🇪
-chanukah	chanukah 🕎
+Channel	Channel 🇬🇬 🇯🇪
+Chanukah	Chanukah 🕎
 chapel	chapel ⛪️ 💒 🛐
 chapels	chapels 💒
 charger	charger 🔌
@@ -1383,15 +740,15 @@ chicks	chicks 🐣 🐤 🐥
 chicory	chicory 🥬
 child	child 👶 🧒
 children	children 👶 🚸
-chile	chile 🇨🇱
-chilean	chilean 🇨🇱
+Chile	Chile 🇨🇱
+Chilean	Chilean 🇨🇱
 chili	chili 🌭 🌶
 chillin	chillin 😎
 chilly	chilly 🥶
 chime	chime 🎐
 chimichanga	chimichanga 🌯
-china	china 🇨🇳
-chinese	chinese 🇨🇳 👲 🥮 🧧
+China	China 🇨🇳
+Chinese	Chinese 🇨🇳 👲 🥮 🧧
 chipmunk	chipmunk 🐿
 chipmunks	chipmunks 🐿
 chiropractor	chiropractor 👨‍⚕️ 👩‍⚕️
@@ -1403,9 +760,9 @@ chortled	chortled 🤭
 chortles	chortles 🤭
 chortling	chortling 🤭
 chow	chow 🍲
-christian	christian ⛪️ ✝️
-christianity	christianity ✝️
-christmas	christmas 🇨🇽 🎄 🎅 🤶
+Christian	Christian ⛪️ ✝️
+Christianity	Christianity ✝️
+Christmas	Christmas 🇨🇽 🎄 🎅 🤶
 chuckle	chuckle 🤭
 chuckled	chuckled 🤭
 chuckles	chuckles 🤭
@@ -1421,7 +778,7 @@ circled	circled Ⓜ️
 circular	circular 🌀 🔂 🔃
 citrus	citrus 🍊 🍋
 cityscapes	cityscapes 🌇 🏙
-cl	cl 🆑
+CL	CL 🆑
 clamp	clamp 🗜
 clamps	clamps 🗜
 clap	clap 👏
@@ -1462,7 +819,7 @@ cocktail	cocktail 🍸 🍹
 cocktails	cocktails 🍸 🍹
 coconut	coconut 🌴 🥥
 coconuts	coconuts 🌴 🥥
-cocos	cocos 🇨🇨
+Cocos	Cocos 🇨🇨
 coffee	coffee ☕️
 coffin	coffin ⚰️
 coffins	coffins ⚰️
@@ -1471,8 +828,8 @@ coiffeuse	coiffeuse 💇‍♀️
 coliseum	coliseum 🏟
 collared	collared 👕 👚
 collision	collision 💥
-colombia	colombia 🇨🇴
-colombian	colombian 🇨🇴
+Colombia	Colombia 🇨🇴
+Colombian	Colombian 🇨🇴
 color	color 💆‍♀️ 💆‍♂️ 🖍
 colorful	colorful 🐠
 colors	colors 🎨
@@ -1481,8 +838,8 @@ comet	comet ☄️ 💫
 comets	comets ☄️ 💫
 comic	comic 💥
 commemorative	commemorative 🎗
-comoran	comoran 🇰🇲
-comoros	comoros 🇰🇲
+Comoran	Comoran 🇰🇲
+Comoros	Comoros 🇰🇲
 compact	compact 🚗
 compass	compass 🧭
 compasses	compasses 🧭
@@ -1493,9 +850,8 @@ compression	compression 🗜
 computers	computers 💻 🖥
 concentrating	concentrating 🙇‍♀️ 🙇‍♂️
 concierge	concierge 💁‍♀️ 💁‍♂️ 🛎
-concusion	concusion 🤕
-concusions	concusions 🤕
-concussion	concussion 💥
+concussion	concussion 💥 🤕
+concussions	concussions 🤕
 condemned	condemned 🏚
 condiment	condiment 🍯 🧂
 condiments	condiments 🧂
@@ -1505,8 +861,8 @@ conference	conference 🎫
 confetti	confetti 🎉 🎊
 conflicted	conflicted 😐
 confounded	confounded 😖
-congo	congo 🇨🇩 🇨🇬
-congolese	congolese 🇨🇩 🇨🇬
+Congo	Congo 🇨🇩 🇨🇬
+Congolese	Congolese 🇨🇩 🇨🇬
 congrats	congrats 👏 🥳
 congratulations	congratulations 👏 🥳 ㊗️
 conifer	conifer 🌲
@@ -1524,7 +880,8 @@ control	control 🎚 🎛
 controller	controller 🎮 🕹 🖲
 convenience	convenience 🏪
 convention	convention 🎫
-cook	cook 🇨🇰 👨‍🍳 👩‍🍳 🧑‍🍳
+Cook Islands	Cook Islands 🇨🇰
+cook	cook 👨‍🍳 👩‍🍳 🧑‍🍳
 cooked	cooked 🍚
 cookie	cookie 🍪
 cookies	cookies 🍪
@@ -1536,7 +893,7 @@ cornea	cornea 👁
 corner	corner 📄
 cosmetics	cosmetics 🧴
 cosmonaut	cosmonaut 👨‍🚀 👩‍🚀
-costa	costa 🇨🇷
+Costa Rica	Costa Rica 🇨🇷
 couch	couch 🛋
 cough	cough 😷
 counter	counter 🔄
@@ -1548,7 +905,7 @@ cow	cow 🐄 🐮
 cowboy	cowboy 🤠
 cowboys	cowboys 🤠
 cows	cows 🐄 🐮
-cpa	cpa 👨‍💼 👩‍💼
+CPA	CPA 👨‍💼 👩‍💼
 crab	crab ♋️ 🦀
 crabs	crabs 🦀
 crack	crack 🤣 😂
@@ -1579,8 +936,8 @@ cringe	cringe 😬
 cringed	cringed 😬
 cringey	cringey 😬
 cringing	cringing 😬
-croatia	croatia 🇭🇷
-croatian	croatian 🇭🇷
+Croatia	Croatia 🇭🇷
+Croatian	Croatian 🇭🇷
 croc	croc 🐊
 crochet	crochet 🧶
 crocheted	crocheted 🧶
@@ -1608,8 +965,8 @@ crustacean	crustacean 🦞
 crustaceans	crustaceans 🦞
 cry	cry 😭
 crystal	crystal 🔮
-cuba	cuba 🇨🇺
-cuban	cuban 🇨🇺
+Cuba	Cuba 🇨🇺
+Cuban	Cuban 🇨🇺
 cuckoo	cuckoo 🤪 😜
 cucumber	cucumber 🥒
 cucumbers	cucumbers 🥒
@@ -1619,9 +976,9 @@ cupcakes	cupcakes 🧁
 cupid	cupid 💘
 cuppa	cuppa ☕️
 cupped	cupped 🤲
-curacao	curacao 🇨🇼
-curaçao	curaçao 🇨🇼
-curaçaoan	curaçaoan 🇨🇼
+Curacao	Curacao 🇨🇼
+Curaçao	Curaçao 🇨🇼
+Curaçaoan	Curaçaoan 🇨🇼
 curious	curious 😯
 curled	curled 📃
 curling	curling 🥌
@@ -1638,11 +995,11 @@ cyclone	cyclone 🌀
 cyclones	cyclones 🌀
 cygnet	cygnet 🦢
 cygnets	cygnets 🦢
-cypriot	cypriot 🇨🇾
-cyprus	cyprus 🇨🇾
-czech	czech 🇨🇿
-czechia	czechia 🇨🇿
-côte	côte 🇨🇮
+Cypriot	Cypriot 🇨🇾
+Cyprus	Cyprus 🇨🇾
+Czech	Czech 🇨🇿
+Czechia	Czechia 🇨🇿
+Côte d'Ivoire	Côte d'Ivoire 🇨🇮
 daffodil	daffodil 🌼
 daffodils	daffodils 🌼
 dagger	dagger 🗡
@@ -1653,7 +1010,7 @@ dairy	dairy 🥛 🧀 🧈
 dancer	dancer 💃 🕺
 dancers	dancers 👯‍♀️ 👯‍♂️ 💃
 dango	dango 🍡
-danish	danish 🇩🇰
+Danish	Danish 🇩🇰
 darjeeling	darjeeling ☕️
 dark	dark 🏿 🕶
 dart	dart 🎯
@@ -1679,9 +1036,9 @@ defeated	defeated 😕
 degree	degree 📜
 delicious	delicious 🤤 😋
 deliveries	deliveries 📦 🚚
-democratic	democratic 🇨🇩
+Democratic Republic of Congo	Democratic Republic of Congo 🇨🇩
 denied	denied 🙅‍♀️ 🙅‍♂️
-denmark	denmark 🇩🇰
+Denmark	Denmark 🇩🇰
 dental	dental 🦷
 dentist	dentist 🦷
 dentists	dentists 🦷
@@ -1740,10 +1097,10 @@ division	division ➗
 diwali	diwali 🪔
 diya	diya 🪔
 dizzy	dizzy 💫 🥴 😵
-djibouti	djibouti 🇩🇯
-djiboutian	djiboutian 🇩🇯
+Djibouti	Djibouti 🇩🇯
+Djiboutian	Djiboutian 🇩🇯
 djinn	djinn 🧞‍♀️ 🧞‍♂️
-dna	dna 🧬
+DNA	DNA 🧬
 do	do 🚯
 doctors	doctors 🥼
 doggie	doggie 🐶
@@ -1756,8 +1113,8 @@ dolls	dolls 🎎
 dolphin	dolphin 🐬
 dolphins	dolphins 🐬
 domicile	domicile 🏠 🏡
-dominica	dominica 🇩🇲
-dominican	dominican 🇩🇲 🇩🇴
+Dominica	Dominica 🇩🇲
+Dominican	Dominican 🇩🇲 🇩🇴
 donate	donate 🩸
 done	done ✅
 doner	doner 🥙
@@ -1802,6 +1159,7 @@ drumsticks	drumsticks 🍗 🥁
 drunk	drunk 🥴 😵
 drunken	drunken 🥴
 dry	dry 🌵 🍸
+DR Congo	DR Congo 🇨🇩
 duchess	duchess 👸
 duckling	duckling 🐥
 ducklings	ducklings 🐥
@@ -1817,26 +1175,26 @@ dumpling	dumpling 🥟
 dumplings	dumplings 🥟
 dunno	dunno 🤷‍♀️ 🤷‍♂️
 dusk	dusk 🌆 🌇 🏙
-dutch	dutch 🇳🇱
-dvd	dvd 📀
-dvds	dvds 📀
+Dutch	Dutch 🇳🇱
+DVD	DVD 📀
+DVDs	DVDs 📀
 dying	dying 🤣 🥀 😂
 dynamite	dynamite 🧨
-e	e 👽
 e-mail	e-mail 📧
 eagle	eagle 🦅
 eagles	eagles 🦅
+ear-pods	ear-pods 🎧
 earl	earl ☕️
 earlobe	earlobe 👂
-earpods	earpods 🎧
+EarPods	EarPods 🎧
 ears	ears 👂
 earth	earth 🌍 🌎 🌏
 east	east ➡️
-easter	easter 🐣 🗿
+Easter	Easter 🐣 🗿
 eating	eating 🍴 🍽 🥄
 ebi	ebi 🍣
-ecuador	ecuador 🇪🇨
-ecuadorean	ecuadorean 🇪🇨
+Ecuador	Ecuador 🇪🇨
+Ecuadorean	Ecuadorean 🇪🇨
 education	education 📖 📚
 educator	educator 👨‍🏫 👩‍🏫
 educators	educators 👨‍🏫 👩‍🏫
@@ -1845,12 +1203,11 @@ egg	egg ⏲️ 🍳 🥚
 eggplant	eggplant 🍆
 eggplants	eggplants 🍆
 eggs	eggs 🍳 🥚
-egypt	egypt 🇪🇬
-egyptian	egyptian 🇪🇬
+Egypt	Egypt 🇪🇬
+Egyptian	Egyptian 🇪🇬
 eight-thirty	eight-thirty 🕣
 eighth	eighth 🎵 🎶
 eject	eject ⏏️
-el	el 🇸🇻
 elder	elder 🧓
 elderly	elderly 👴 👵
 election	election 🗳
@@ -1863,19 +1220,20 @@ eleven-thirty	eleven-thirty 🕦
 elf	elf 🧝 🧝‍♀️ 🧝‍♂️
 elm	elm 🌳
 elms	elms 🌳
-elrond	elrond 🧝‍♂️
+Elrond	Elrond 🧝‍♂️
 elves	elves 🧝‍♀️ 🧝‍♂️
+El Salvador	El Salvador 🇸🇻
 email	email 📧 📩
 embroidering	embroidering 🧵
 embroidery	embroidery 🧵
 emergency	emergency 🚨
-emirates	emirates 🇦🇪
-emirati	emirati 🇦🇪
+Emirates	Emirates 🇦🇪
+Emirati	Emirati 🇦🇪
 emotion	emotion 💢
 emotional	emotional 😭
 emotionless	emotionless 😐
 empty	empty 📭
-emt	emt 🚑
+EMT	EMT 🚑
 enamored	enamored 🥰
 encampment	encampment ⛺️ 🏕
 enchanter	enchanter 🧙‍♀️ 🧙‍♂️
@@ -1887,37 +1245,37 @@ energy	energy ⚡️
 engagement	engagement 💍
 engineer	engineer 👨‍💻 👩‍💻
 engineers	engineers 👨‍💻 👩‍💻
-england	england 🏴󠁧󠁢󠁥󠁮󠁧󠁿
-english	english ☕️ 🏴󠁧󠁢󠁥󠁮󠁧󠁿
+England	England 🏴󠁧󠁢󠁥󠁮󠁧󠁿
+English	English ☕️ 🏴󠁧󠁢󠁥󠁮󠁧󠁿
 enjoy	enjoy 😉
 entry	entry 🎫
 envelopes	envelopes ✉️ 🧧
 epidemic	epidemic 😷
 epidemics	epidemics 😷
-equatoguinean	equatoguinean 🇬🇶
-equatorial	equatorial 🇬🇶
+Equatoguinean	Equatoguinean 🇬🇶
+Equatorial	Equatorial 🇬🇶
 equestrian	equestrian 🐴
 eraser	eraser ✏️
 erasers	erasers ✏️
-eritrea	eritrea 🇪🇷
-eritrean	eritrean 🇪🇷
+Eritrea	Eritrea 🇪🇷
+Eritrean	Eritrean 🇪🇷
 erm	erm 😐 😒 😕
 eruption	eruption 🌋
 escargot	escargot 🐌
 espresso	espresso ☕️
 estate	estate 🏡
 estates	estates 🏡
-estonia	estonia 🇪🇪
-estonian	estonian 🇪🇪
-et	et 👽
-ethiopia	ethiopia 🇪🇹
-ethiopian	ethiopian 🇪🇹
+Estonia	Estonia 🇪🇪
+Estonian	Estonian 🇪🇪
+ET	ET 👽
+Ethiopia	Ethiopia 🇪🇹
+Ethiopian	Ethiopian 🇪🇹
 ethnicity	ethnicity 👲
-eu	eu 💶
-eur	eur 💶
-euro	euro 💶
-european	european ⚽️ 🏤 🏰
-euros	euros 💶
+EU	EU 💶
+EUR	EUR 💶
+Euro	Euro 💶
+European	European ⚽️ 🏤 🏰
+Euros	Euros 💶
 evaluating	evaluating 🤔
 evening	evening 🌆 🌇
 evergreen	evergreen 🌲
@@ -1948,7 +1306,7 @@ extremity	extremity 🦶
 eyeball	eyeball 👁
 eyeglasses	eyeglasses 👓 🤓
 eyewear	eyewear 🥽
-eyjafjallajökull	eyjafjallajökull 🌋
+Eyjafjallajökull	Eyjafjallajökull 🌋
 face-palm	face-palm 🤦‍♀️ 🤦‍♂️
 face-palming	face-palming 🤦‍♀️ 🤦‍♂️
 facepalm	facepalm 🤦‍♀️ 🤦‍♂️
@@ -1959,19 +1317,19 @@ fader	fader 🎚
 faders	faders 🎚
 fairies	fairies 🧚‍♀️ 🧚‍♂️
 falafel	falafel 🥙 🧆
-falkland	falkland 🇫🇰
+Falkland	Falkland 🇫🇰
 fall	fall 🍁 🍂
 fallen	fallen 🍂
 falling	falling 🍃
 fancy	fancy 🎩 👒
 fantasy	fantasy 🐉 🐲 🦄
 farmer	farmer 👨‍🌾 👩‍🌾 🧑‍🌾
-faroe	faroe 🇫🇴
+Faroe	Faroe 🇫🇴
 fart	fart 💨
 farts	farts 💨
 fastener	fastener 🧷
 fasteners	fasteners 🧷
-father	father 🎅
+Father Christmas	Father Christmas 🎅
 fax	fax 📠
 faxes	faxes 📠
 fearful	fearful 😧 😨 😰
@@ -1999,10 +1357,10 @@ field	field 🌾 🏑
 fight	fight 🧯
 fighting	fighting 🧯
 figure	figure ⛸️
-fiji	fiji 🇫🇯
-fijian	fijian 🇫🇯
+Fiji	Fiji 🇫🇯
+Fijian	Fijian 🇫🇯
 files	files 📁 📂 🗂
-filipino	filipino 🇵🇭
+Filipino	Filipino 🇵🇭
 filming	filming 🎬
 filthy	filthy 🤑
 final	final 🎬
@@ -2011,8 +1369,8 @@ finger	finger 👌
 fingers	fingers 🤞
 finish	finish 🏁
 finished	finished ⌛️
-finland	finland 🇫🇮
-finnish	finnish 🇫🇮
+Finland	Finland 🇫🇮
+Finnish	Finnish 🇫🇮
 fir	fir 🌲
 firecracker	firecracker 🧨
 firecrackers	firecrackers 🧨
@@ -2060,7 +1418,7 @@ floral	floral 🌸 💐
 flushed	flushed 😳
 flustered	flustered 😩 😫
 fly	fly 💸
-fm	fm 📻
+FM	FM 📻
 fog	fog 🌫
 foggy	foggy 🌁 🌫
 folded	folded 🗺
@@ -2085,12 +1443,11 @@ fought	fought 🧯
 fountain	fountain ⛲️ ✒️ 🖋
 fountains	fountains ⛲️
 four-thirty	four-thirty 🕟
-fourth	fourth 🇺🇸
 fox	fox 🦊
 foxes	foxes 🦊
 frame	frame 🖼
 frames	frames 🖼
-france	france 🇫🇷
+France	France 🇫🇷
 frankfurter	frankfurter 🌭
 free	free 🆓 🈚️
 freeway	freeway 🛣
@@ -2101,6 +1458,7 @@ freight	freight 🚃
 french	french 🍟 💋 🥖
 fried	fried 🍤 🍳
 fries	fries 🍟
+Fro-Yo	Fro-Yo 🍦
 fro-yo	fro-yo 🍦
 frog	frog 🐸
 frogs	frogs 🐸
@@ -2121,23 +1479,23 @@ fungus	fungus 🍄
 funniest	funniest 🤣 😂
 furnishings	furnishings 🚽 🚿 🛁
 fussy	fussy 😩 😭
-futuna	futuna 🇼🇫
+Futuna	Futuna 🇼🇫
 fuzzy	fuzzy 🍹
 fête	fête 🥳
-gabon	gabon 🇬🇦
-gabonese	gabonese 🇬🇦
+Gabon	Gabon 🇬🇦
+Gabonese	Gabonese 🇬🇦
 gah	gah 😖 😩 😫
-galadriel	galadriel 🧝‍♀️
+Galadriel	Galadriel 🧝‍♀️
 galaxies	galaxies 🌌
 galaxy	galaxy 🌌
 gale	gale 💨
 galloping	galloping 🐎
-gambia	gambia 🇬🇲
-gambian	gambian 🇬🇲
+Gambia	Gambia 🇬🇲
+Gambian	Gambian 🇬🇲
 gambling	gambling 🎰 🎲
 gaming	gaming 🕹
 garage	garage 🎸
-garageband	garageband 🎸
+GarageBand	GarageBand 🎸
 garbage	garbage 🗑
 garlic	garlic 🧄
 gas	gas ⛽️
@@ -2145,8 +1503,8 @@ gasoline	gasoline ⛽️
 gastropod	gastropod 🐚
 gator	gator 🐊
 gators	gators 🐊
-gb	gb 🇬🇧 💷
-gbp	gbp 💷
+GB	GB 🇬🇧 💷
+GBP	GBP 💷
 gear	gear ⚙️
 gears	gears ⚙️
 gecko	gecko 🦎
@@ -2155,7 +1513,7 @@ gee	gee 🤬
 geez	geez 😒 🙄
 gelato	gelato 🍧 🍨
 gem	gem 💎
-gemini	gemini ♊️
+Gemini	Gemini ♊️
 gemstone	gemstone 💎
 gene	gene 🧬
 genes	genes 🧬
@@ -2165,22 +1523,22 @@ genies	genies 🧞‍♀️
 genome	genome 🧬
 genomes	genomes 🧬
 genomics	genomics 🧬
-georgia	georgia 🇬🇪
-georgian	georgian 🇬🇪
+Georgia	Georgia 🇬🇪
+Georgian	Georgian 🇬🇪
 germ	germ 🦠
-german	german 🇩🇪
-germany	germany 🇩🇪
+German	German 🇩🇪
+Germany	Germany 🇩🇪
 germs	germs 🦠
 gestures	gestures 🤏 🤙
 gesundheit	gesundheit 🤧
 get	get 🏃‍♂️ 💅 🚶‍♂️
-ghana	ghana 🇬🇭
-ghanaian	ghanaian 🇬🇭
+Ghana	Ghana 🇬🇭
+Ghanaian	Ghanaian 🇬🇭
 ghost	ghost 👻
 ghosted	ghosted 👻
 giant	giant 🐼 🦑
 gibbous	gibbous 🌔 🌖
-gibraltar	gibraltar 🇬🇮
+Gibraltar	Gibraltar 🇬🇮
 gift	gift 💝 🧧
 gifts	gifts 🧧
 giggle	giggle 🤭
@@ -2194,7 +1552,7 @@ girls	girls 👯‍♀️ 💁‍♀️ 🧗‍♀️
 girly	girly 🍹
 give	give 👏 🗽
 giving	giving 🤰
-glbt	glbt 🏳️‍🌈
+GLBT	GLBT 🏳️‍🌈
 glitter	glitter ✨
 glittering	glittering ✨
 glove	glove 🥊 🧤
@@ -2241,16 +1599,17 @@ graph	graph 📈 📉 📊
 gratitude	gratitude 🙏
 grave	grave 💀
 graveyard	graveyard 💀
-great	great 🇬🇧 👍 👏
-greece	greece 🇬🇷
-greek	greek 🇬🇷 🏛
-greenland	greenland 🇬🇱
-greenlandic	greenlandic 🇬🇱
+great	great 👍 👏
+Great Britain	Great Britain 🇬🇧
+Greece	Greece 🇬🇷
+Greek	Greek 🇬🇷 🏛
+Greenland	Greenland 🇬🇱
+Greenlandic	Greenlandic 🇬🇱
 greens	greens 🥬
 greeting	greeting 🖖
-grenada	grenada 🇬🇩
-grenadian	grenadian 🇬🇩
-grenadine	grenadine 🇻🇨
+Grenada	Grenada 🇬🇩
+Grenadian	Grenadian 🇬🇩
+Grenadine	Grenadine 🇻🇨
 grey	grey 👨‍🦳 👩‍🦳
 grim	grim 💀
 grimace	grimace 😬
@@ -2266,29 +1625,29 @@ grrrr	grrrr 🐯 👿 😖
 grumble	grumble 😖 😠
 grumpy	grumpy 😠 😡 😾
 gua	gua 👲
-guadeloupe	guadeloupe 🇬🇵
-guam	guam 🇬🇺
-guamanian	guamanian 🇬🇺
+Guadeloupe	Guadeloupe 🇬🇵
+Guam	Guam 🇬🇺
+Guamanian	Guamanian 🇬🇺
 guanaco	guanaco 🦙
 guard	guard 💂
 guardian	guardian 👼
 guardsman	guardsman 💂‍♂️
 guardswoman	guardswoman 💂‍♀️
-guatemala	guatemala 🇬🇹
-guatemalan	guatemalan 🇬🇹
-guernsey	guernsey 🇬🇬
+Guatemala	Guatemala 🇬🇹
+Guatemalan	Guatemalan 🇬🇹
+Guernsey	Guernsey 🇬🇬
 guide	guide 🦮
-guinea	guinea 🇬🇳
-guinea-bissau	guinea-bissau 🇬🇼
-guinean	guinean 🇬🇳
+Guinea	Guinea 🇬🇳
+Guinea-Bissau	Guinea-Bissau 🇬🇼
+Guinean	Guinean 🇬🇳
 guitar	guitar 🎸
 guns	guns 💪
 gus	gus 🐭
 gust	gust 💨
 gusts	gusts 💨
 guy	guy 👨‍💻 👯‍♂️
-guyana	guyana 🇬🇾
-guyanese	guyanese 🇬🇾
+Guyana	Guyana 🇬🇾
+Guyanese	Guyanese 🇬🇾
 gym	gym 🏋️‍♂️ 👟 💪
 gymnast	gymnast 🤸‍♀️ 🤸‍♂️
 gymnastics	gymnastics 🤸‍♀️ 🤸‍♂️
@@ -2305,9 +1664,9 @@ haircuts	haircuts 💇‍♀️ 💇‍♂️
 hairdresser	hairdresser 💇‍♀️ 💇‍♂️
 hairdressers	hairdressers 💇‍♀️ 💇‍♂️
 hairstyle	hairstyle 💁‍♀️ 💁‍♂️
-haiti	haiti 🇭🇹
-haitian	haitian 🇭🇹
-halloween	halloween 🎃 👻
+Haiti	Haiti 🇭🇹
+Haitian	Haitian 🇭🇹
+Halloween	Halloween 🎃 👻
 halo	halo 👼 😇
 hamachi	hamachi 🍣
 hamburger	hamburger 🍔
@@ -2324,8 +1683,8 @@ handsets	handsets 📞
 handshake	handshake 🤝
 hang	hang 🏄‍♀️ 🏄‍♂️ 🤙
 hanging	hanging 📅 🗂
-hanukah	hanukah 🕎
-hanukkah	hanukkah 🕎
+Hanukah	Hanukah 🕎
+Hanukkah	Hanukkah 🕎
 hare	hare 🐰
 harumph	harumph 😤
 harvest	harvest 🥮
@@ -2342,7 +1701,7 @@ haunted	haunted 🎃 🏚 👻
 have	have 🤧
 haversack	haversack 🎒 💼
 having	having 🤰
-hawaiian	hawaiian 🌺
+Hawaiian	Hawaiian 🌺
 hazard	hazard ☢️ ☣️
 hazy	hazy 🌫
 headache	headache 🤕
@@ -2384,8 +1743,8 @@ hero	hero 🦸‍♀️ 🦸‍♂️
 heroes	heroes 🦸‍♀️ 🦸‍♂️
 heroine	heroine 🦸‍♀️
 heroines	heroines 🦸‍♀️
-herzegovina	herzegovina 🇧🇦
-herzegovinian	herzegovinian 🇧🇦
+Herzegovina	Herzegovina 🇧🇦
+Herzegovinian	Herzegovinian 🇧🇦
 hesitant	hesitant 😕 😟
 hey	hey 👋
 hi	hi 👋
@@ -2401,8 +1760,8 @@ highways	highways 🛣
 hijab	hijab 🧕
 hiking	hiking 🥾
 hilarious	hilarious 🤣 😂
-hindu	hindu 🛕
-hinduism	hinduism 🕉
+Hindu	Hindu 🛕
+Hinduism	Hinduism 🕉
 hippo	hippo 🦛
 hippopotami	hippopotami 🦛
 hippopotamus	hippopotamus 🦛
@@ -2419,18 +1778,19 @@ hockey	hockey 🏑 🏒 🥅
 hole	hole ⛳️ 🕳
 holes	holes 🕳
 holland	holland 🌷
-hollywood	hollywood 🎥
+Hollywood	Hollywood 🎥
 holy	holy 🇻🇦
 homes	homes 🏠 🏡
 homework	homework 📚
-honduran	honduran 🇭🇳
-honduras	honduras 🇭🇳
+Honduran	Honduran 🇭🇳
+Honduras	Honduras 🇭🇳
 honey	honey 🍯 🦡
 honeybee	honeybee 🐝
 honeydew	honeydew 🍈
 honeydews	honeydews 🍈
-hongkong	hongkong 🇭🇰
 hongbao	hongbao 🧧
+Hongkong	Hongkong 🇭🇰
+Hong Kong	Hong Kong 🇭🇰
 honor	honor 🎖 🏅
 hooah	hooah 😤
 hoorah	hoorah 😁 😃 😄
@@ -2470,8 +1830,8 @@ humpbacks	humpbacks 🐋
 humph	humph 😤
 hundred	hundred 💯
 hung	hung 😵
-hungarian	hungarian 🇭🇺
-hungary	hungary 🇭🇺
+Hungarian	Hungarian 🇭🇺
+Hungary	Hungary 🇭🇺
 hungover	hungover 😵
 hungry	hungry 😋
 hurricane	hurricane 🌀
@@ -2481,16 +1841,12 @@ hushing	hushing 🤫
 hwatu	hwatu 🎴
 hyperlink	hyperlink 🔗
 hysterical	hysterical 😩 😭
-iMac	iMac 🖥
-iPhone	iPhone 🎧 📱 📲
-iPhones	iPhones 📱 📲
-iPod	iPod 🎧 📱
-iPods	iPods 📱
-icecream	icecream 🍦
-iceland	iceland 🇮🇸
-icelandic	icelandic 🇮🇸
+IAEA	IAEA ☢️
+ice-cream	ice-cream 🍦
+Iceland	Iceland 🇮🇸
+Icelandic	Icelandic 🇮🇸
 icy	icy ❄️ 🥶
-id	id 🎫 🆔
+ID	ID 🎫 🆔
 idea	idea 💡
 ideas	ideas 💡
 identification	identification 🎫 🆔
@@ -2499,17 +1855,17 @@ iguana	iguana 🦎
 iguanas	iguanas 🦎
 ill	ill 🤒 🤧 😷
 ily	ily 🤟
-imac	imac 🖥
+iMac	iMac 🖥
 immunization	immunization 💉
 inbox	inbox 📥 📨
 incoming	incoming 📨 📲
 indecisive	indecisive 🤷‍♀️ 🤷‍♂️
 indexed	indexed 🗂
-india	india 🇮🇳
-indian	indian 🇮🇳
+India	India 🇮🇳
+Indian	Indian 🇮🇳
 indifferent	indifferent 😐 😑 😕
-indonesia	indonesia 🇮🇩
-indonesian	indonesian 🇮🇩
+Indonesia	Indonesia 🇮🇩
+Indonesian	Indonesian 🇮🇩
 indoor	indoor 🎮 👾
 industrial	industrial 🏭
 inebriated	inebriated 🥴
@@ -2531,7 +1887,6 @@ instruments	instruments 🎺 🎻 🪕
 insurance	insurance 👨‍💼 👩‍💼
 interested	interested 😯
 interesting	interesting 🤔 🧐
-iaea	iaea ☢️
 interstate	interstate 🛣
 interstates	interstates 🛣
 intoxicated	intoxicated 🥴 😵
@@ -2539,31 +1894,31 @@ investigator	investigator 🕵️‍♀️ 🕵️‍♂️
 investigators	investigators 🕵️‍♀️ 🕵️‍♂️
 invoice	invoice 🧾
 invoices	invoices 🧾
-iphone	iphone 🎧 📱 📲
-iphones	iphones 📱 📲
-ipod	ipod 🎧 📱
-ipods	ipods 📱
-iran	iran 🇮🇷
-iranian	iranian 🇮🇷
-iraq	iraq 🇮🇶
-iraqi	iraqi 🇮🇶
-ireland	ireland 🇮🇪
-irish	irish ☘️ 🇮🇪
+iPhone	iPhone 🎧 📱 📲
+iPhones	iPhones 📱 📲
+iPod	iPod 🎧 📱
+iPods	iPods 📱
+Iran	Iran 🇮🇷
+Iranian	Iranian 🇮🇷
+Iraq	Iraq 🇮🇶
+Iraqi	Iraqi 🇮🇶
+Ireland	Ireland 🇮🇪
+Irish	Irish ☘️ 🇮🇪
 irritable	irritable 😠
 irritated	irritated 😠 😣 😤
 irritating	irritating 😠
-islam	islam ☪️
-islamic	islamic 🕋
+Islam	Islam ☪️
+Islamic	Islamic 🕋
 island	island 🌴 🏝
 islands	islands 🌴
-isle	isle 🇮🇲
-israel	israel 🇮🇱
-israeli	israeli 🇮🇱
-it	it 👨‍💻 👩‍💻 😇 😍
-italian	italian 🇮🇹 🍕 🍝
-italy	italy 🇮🇹
-ivorian	ivorian 🇨🇮
-ivory	ivory 🇨🇮
+Isle of Man	Isle of Man 🇮🇲
+Israel	Israel 🇮🇱
+Israeli	Israeli 🇮🇱
+IT	IT 👨‍💻 👩‍💻
+Italian	Italian 🇮🇹 🍕 🍝
+Italy	Italy 🇮🇹
+Ivorian	Ivorian 🇨🇮
+Ivory Coast	Ivory Coast 🇨🇮
 izakaya	izakaya 🏮
 jack	jack 🎃 🥶
 jack-o-lantern	jack-o-lantern 🎃
@@ -2574,18 +1929,18 @@ jackpot	jackpot 🎰
 jacuzzi	jacuzzi 🛀 🛁
 jaguar	jaguar 🐆
 jaguars	jaguars 🐆
-jamaica	jamaica 🇯🇲
-jamaican	jamaican 🇯🇲
+Jamaica	Jamaica 🇯🇲
+Jamaican	Jamaican 🇯🇲
 japa	japa 📿
 jar	jar 🏺
 jasmine	jasmine 🍵
 jazz	jazz 👐 🤗
 jeans	jeans 👖
 jelly	jelly 🍩
-jersey	jersey 🇯🇪
+Jersey	Jersey 🇯🇪
 jet	jet ✈️
 jewel	jewel 💎
-jewish	jewish 🕍
+Jewish	Jewish 🕍
 jigsaw	jigsaw 🧩
 jittery	jittery 😬
 jockey	jockey 🏇
@@ -2599,13 +1954,13 @@ jokers	jokers 🃏
 joking	joking 🙃
 jolly	jolly 🏴‍☠️
 jolt	jolt ⚡️
-jordan	jordan 🇯🇴
-jordanian	jordanian 🇯🇴
+Jordan	Jordan 🇯🇴
+Jordanian	Jordanian 🇯🇴
 journal	journal 📔
 joystick	joystick 🕹
-jpy	jpy 💴
+JPY	JPY 💴
 jr	jr 🏫
-judaism	judaism ✡️
+Judaism	Judaism ✡️
 judge	judge 👨‍⚖️ 👩‍⚖️ 🧑‍⚖️
 judicial	judicial 👨‍⚖️ 👩‍⚖️
 judo	judo 🥋
@@ -2614,12 +1969,12 @@ juggler	juggler 🤹‍♀️ 🤹‍♂️
 juggling	juggling 🤹‍♀️ 🤹‍♂️
 juice	juice 🥤 🧃
 juices	juices 🥤
+July the Fourth	July the Fourth 🇺🇸
 jumping	jumping 🤬
 junior	junior 🏫
 justice	justice 👨‍⚖️ 👩‍⚖️
 justices	justices 👨‍⚖️ 👩‍⚖️
-ka	ka 🕋
-kaaba	kaaba 🕋
+Kaaba	Kaaba 🕋
 kaboom	kaboom 🤯
 kadomatsu	kadomatsu 🎍
 kale	kale 🥬
@@ -2627,13 +1982,13 @@ kangaroo	kangaroo 🦘
 kangaroos	kangaroos 🦘
 karaoke	karaoke 🎤
 karate	karate 🥋 🙅‍♀️ 🙅‍♂️
-kazakh	kazakh 🇰🇿
-kazakhstan	kazakhstan 🇰🇿
+Kazakh	Kazakh 🇰🇿
+Kazakhstan	Kazakhstan 🇰🇿
 kebab	kebab 🥙
 keep	keep 👍
-kentucky	kentucky 🏇 🐎
-kenya	kenya 🇰🇪
-kenyan	kenyan 🇰🇪
+Kentucky	Kentucky 🏇 🐎
+Kenya	Kenya 🇰🇪
+Kenyan	Kenyan 🇰🇪
 key	key 🔐 🔑 🗝
 keyboard	keyboard ⌨️ 🎹
 keyboards	keyboards 🎹
@@ -2649,7 +2004,7 @@ kiddos	kiddos 👶
 kimono	kimono 👘
 kimonos	kimonos 👘
 king	king 👑 🤴
-kiribati	kiribati 🇰🇮
+Kiribati	Kiribati 🇰🇮
 kisses	kisses 😘 😚 😽
 kitchen	kitchen ⏲️
 kite	kite 🪁
@@ -2671,17 +2026,17 @@ knobs	knobs 🎚 🎛
 knock	knock ✊
 koala	koala 🐨
 koalas	koalas 🐨
-korea	korea 🇰🇵 🇰🇷
-kosovar	kosovar 🇽🇰
-kosovo	kosovo 🇽🇰
-kris	kris 🎅
+Korea	Korea 🇰🇵 🇰🇷
+Kosovar	Kosovar 🇽🇰
+Kosovo	Kosovo 🇽🇰
+Kris	Kris 🎅
 krunk	krunk 🥴
 kung	kung 🥋
-kuwait	kuwait 🇰🇼
-kuwaiti	kuwaiti 🇰🇼
-kyrgyz	kyrgyz 🇰🇬
-kyrgyzstan	kyrgyzstan 🇰🇬
-kyrgyzstani	kyrgyzstani 🇰🇬
+Kuwait	Kuwait 🇰🇼
+Kuwaiti	Kuwaiti 🇰🇼
+Kyrgyz	Kyrgyz 🇰🇬
+Kyrgyzstan	Kyrgyzstan 🇰🇬
+Kyrgyzstani	Kyrgyzstani 🇰🇬
 label	label 🏷
 labels	labels 🏷
 laboratories	laboratories 🥼 🧪 🧫
@@ -2700,8 +2055,8 @@ landline	landline ☎️ 📞
 landlines	landlines 📞
 landmark	landmark ⛩️ 🕋
 lantern	lantern 🏮
-laos	laos 🇱🇦
-laotian	laotian 🇱🇦
+Laos	Laos 🇱🇦
+Laotian	Laotian 🇱🇦
 laptops	laptops 💻
 last	last 🌗 🌜
 laters	laters 👋
@@ -2710,9 +2065,9 @@ lather	lather 🧼 🧽
 lathered	lathered 🧼 🧽
 lathering	lathering 🧼 🧽
 lathers	lathers 🧼 🧽
-latin	latin ✝️ 🔠 🔡 🔤
-latvia	latvia 🇱🇻
-latvian	latvian 🇱🇻
+Latin	Latin ✝️ 🔠 🔡 🔤
+Latvia	Latvia 🇱🇻
+Latvian	Latvian 🇱🇻
 laugh	laugh 🤭 😂
 laughed	laughed 🤭
 laughs	laughs 🤭
@@ -2726,8 +2081,8 @@ leafy	leafy 🌳 🥬
 learning	learning 🎼
 leather	leather 👞 💼
 leaves	leaves 🍁 🍃
-lebanese	lebanese 🇱🇧
-lebanon	lebanon 🇱🇧
+Lebanese	Lebanese 🇱🇧
+Lebanon	Lebanon 🇱🇧
 lecturer	lecturer 👨‍🏫 👩‍🏫
 ledger	ledger 📒
 left-facing	left-facing 🤛
@@ -2737,34 +2092,34 @@ leftwards	leftwards ⬅️
 leg	leg 🦵 🦿
 legal	legal 👨‍⚖️ 👩‍⚖️
 leggy	leggy 🦵
-legolas	legolas 🧝‍♂️
+Legolas	Legolas 🧝‍♂️
 legs	legs 🦵 🦿
 legume	legume 🥜
 lemon	lemon 🍋 🍸
 lemons	lemons 🍋
-leo	leo ♌️
+Leo	Leo ♌️
 leopard	leopard 🐆
 leopards	leopards 🐆
 leprechaun	leprechaun ☘️ 🍀
-lesotho	lesotho 🇱🇸
+Lesotho	Lesotho 🇱🇸
 let	let 👏 🤔
 lettuce	lettuce 🥬
 level	level 🎚
 lever	lever 🎚
 levitating	levitating 🕴
-lgbt	lgbt 🏳️‍🌈
-lgbtq	lgbtq 🏳️‍🌈
+LGBT	LGBT 🏳️‍🌈
+LGBTQ	LGBTQ 🏳️‍🌈
 liar	liar 🤥
-liberia	liberia 🇱🇷
-liberian	liberian 🇱🇷
-liberty	liberty 🗽
-libra	libra ♎️
+Liberia	Liberia 🇱🇷
+Liberian	Liberian 🇱🇷
+Liberty Statute	Liberty Statute 🗽
+Libra	Libra ♎️
 library	library 💳 📚
-libya	libya 🇱🇾
-libyan	libyan 🇱🇾
+Libya	Libya 🇱🇾
+Libyan	Libyan 🇱🇾
 lick	lick 👅
 licking	licking 😋
-liechtenstein	liechtenstein 🇱🇮
+Liechtenstein	Liechtenstein 🇱🇮
 lied	lied 🤥
 lifeboat	lifeboat 🚤 🛥
 lifting	lifting 🏋️‍♀️ 🏋️‍♂️
@@ -2788,8 +2143,8 @@ liquor	liquor 🍸 🍹 🥃
 listen	listen 👂
 listening	listening 🎧 👂
 lit	lit 🔥
-lithuania	lithuania 🇱🇹
-lithuanian	lithuanian 🇱🇹
+Lithuania	Lithuania 🇱🇹
+Lithuanian	Lithuanian 🇱🇹
 littering	littering 🚯
 live	live 🖖
 lizard	lizard 🦎
@@ -2814,10 +2169,10 @@ lollipop	lollipop 🍭
 lollipops	lollipops 🍭
 lols	lols 🤣 😂 😝
 lolz	lolz 🤣 😂 😝
-long	long 🍹
 long-faced	long-faced 😔 😞
 longboard	longboard 🛹
 longboards	longboards 🛹
+long island	long island 🍹
 looking	looking 👀
 loop	loop ➰
 loot	loot 💰
@@ -2840,28 +2195,28 @@ low	low 🔅 🔉
 lowball	lowball 🥃
 lowercase	lowercase 🔡 🔤
 lowered	lowered 📪
-lpga	lpga ⛳️
+LPGA	LPGA ⛳️
 lucky	lucky ☺️ 🍀 🧧
 lulz	lulz 🤣 😂 😝
 lunar	lunar 🧧
-luxembourg	luxembourg 🇱🇺
-luxembourgish	luxembourgish 🇱🇺
+Luxembourg	Luxembourg 🇱🇺
+Luxembourgish	Luxembourgish 🇱🇺
 lying	lying 🤥
-m	m 👣 Ⓜ️
-mac	mac 💻 🖥
-macanese	macanese 🇲🇴
-macao	macao 🇲🇴
-macau	macau 🇲🇴
+M	M Ⓜ️
+Mac	Mac 💻 🖥
+Macanese	Macanese 🇲🇴
+Macao	Macao 🇲🇴
+Macau	Macau 🇲🇴
 macaw	macaw 🦜
 macaws	macaws 🦜
-macbook	macbook 💻
-macbooks	macbooks 💻
-macedonia	macedonia 🇲🇰
-macedonian	macedonian 🇲🇰
+MacBook	MacBook 💻
+MacBooks	MacBooks 💻
+Macedonia	Macedonia 🇲🇰
+Macedonian	Macedonian 🇲🇰
 machine	machine 🎰 📠 🚜
 machinery	machinery 🚜
 mad	mad 😠 😡
-madagascar	madagascar 🇲🇬
+Madagascar	Madagascar 🇲🇬
 mage	mage 🧙‍♀️ 🧙‍♂️
 mages	mages 🧙‍♀️ 🧙‍♂️
 magical	magical 🧙‍♀️ 🧙‍♂️
@@ -2872,26 +2227,26 @@ magnetic	magnetic 🧭 🧲
 magnets	magnets 🧲
 maguro	maguro 🍣
 mahjong	mahjong 🀄️
-mahoran	mahoran 🇾🇹
-mai	mai 🍹
+Mahoran	Mahoran 🇾🇹
+Mai Tai	Mai Tai 🍹
 make	make 💋 🤝
 makeup	makeup 💄 💋
 making	making 🤝
-malagasy	malagasy 🇲🇬
-malawi	malawi 🇲🇼
-malawian	malawian 🇲🇼
-malaysia	malaysia 🇲🇾
-malaysian	malaysian 🇲🇾
+Malagasy	Malagasy 🇲🇬
+Malawi	Malawi 🇲🇼
+Malawian	Malawian 🇲🇼
+Malaysia	Malaysia 🇲🇾
+Malaysian	Malaysian 🇲🇾
 malbec	malbec 🍷
-maldives	maldives 🇲🇻
-maldivian	maldivian 🇲🇻
+Maldives	Maldives 🇲🇻
+Maldivian	Maldivian 🇲🇻
 male	male 🐏 🧚‍♂️
-mali	mali 🇲🇱
-malian	malian 🇲🇱
+Mali	Mali 🇲🇱
+Malian	Malian 🇲🇱
 mallard	mallard 🦆
 mallards	mallards 🦆
-malta	malta 🇲🇹
-maltese	maltese 🇲🇹
+Malta	Malta 🇲🇹
+Maltese	Maltese 🇲🇹
 mango	mango 🥭
 mangoes	mangoes 🥭
 mangos	mangos 🥭
@@ -2903,7 +2258,7 @@ mantelpiece	mantelpiece 🕰
 mantra	mantra 📿
 manual	manual 👨‍🦽 👩‍🦽 🦽
 manufacturing	manufacturing 👨‍🏭 👩‍🏭
-manx	manx 🇮🇲
+Manx	Manx 🇮🇲
 map	map 🗺 🗾
 maple	maple 🍁
 marathon	marathon 🏃‍♀️ 🏃‍♂️
@@ -2914,15 +2269,15 @@ marked	marked 📑
 markets	markets 💹
 marriage	marriage 🏩 👰 💒
 marshal	marshal 👨‍⚖️ 👩‍⚖️
-marshall	marshall 🇲🇭
+Marshall	Marshall 🇲🇭
 marsupial	marsupial 🦘
 marsupials	marsupials 🦘
 martial	martial 🥋
-martian	martian 👽
-martians	martians 👽
+Martian	Martian 👽
+Martians	Martians 👽
 martini	martini 🍸
-martiniquais	martiniquais 🇲🇶
-martinique	martinique 🇲🇶
+Martiniquais	Martiniquais 🇲🇶
+Martinique	Martinique 🇲🇶
 martinis	martinis 🍸
 mask	mask 👺 🤿 😷
 masks	masks 🎭 🤿
@@ -2932,14 +2287,14 @@ matcha	matcha 🍵
 mate	mate 🧉
 mathematics	mathematics 🧮
 maté	maté 🧉
-mauritania	mauritania 🇲🇷
-mauritanian	mauritanian 🇲🇷
-mauritian	mauritian 🇲🇺
-mauritius	mauritius 🇲🇺
-mayotte	mayotte 🇾🇹
+Mauritania	Mauritania 🇲🇷
+Mauritanian	Mauritanian 🇲🇷
+Mauritian	Mauritian 🇲🇺
+Mauritius	Mauritius 🇲🇺
+Mayotte	Mayotte 🇾🇹
 mean	mean 😼
 meandering	meandering 🚶‍♀️ 🚶‍♂️
-mecca	mecca 🕋
+Mecca	Mecca 🕋
 mechanical	mechanical 🦾 🦿
 mechanics	mechanics 🧰
 medication	medication 💊
@@ -2965,15 +2320,15 @@ menstruating	menstruating 🩸
 menstruation	menstruation 🩸
 menʼs	menʼs 💇‍♂️
 meridians	meridians 🌐
-merlin	merlin 🧙‍♂️
+Merlin	Merlin 🧙‍♂️
 merlot	merlot 🍷
 mermaid	mermaid 🧜‍♀️
 mermaids	mermaids 🧜‍♀️
 merman	merman 🧜‍♂️
 merperson	merperson 🧜
 metros	metros 🚈
-mexican	mexican 🇲🇽 🌮 🌯
-mexico	mexico 🇲🇽
+Mexican	Mexican 🇲🇽 🌮 🌯
+Mexico	Mexico 🇲🇽
 mic	mic 🎙 🎤
 mice	mice 🐁 🐭
 microbe	microbe 🦠
@@ -2981,8 +2336,8 @@ microbes	microbes 🦠
 microbiological	microbiological 🧫
 microbiology	microbiology 🧫
 microcar	microcar 🚗
-micronesia	micronesia 🇫🇲
-micronesian	micronesian 🇫🇲
+Micronesia	Micronesia 🇫🇲
+Micronesian	Micronesian 🇫🇲
 microorganism	microorganism 🦠
 microorganisms	microorganisms 🦠
 microphone	microphone 🎙 🎤
@@ -2992,7 +2347,7 @@ middle	middle 🏫 🖕
 midnight	midnight 🕛
 military	military 🎖
 milk	milk 🍼 🥛
-milky	milky 🌌
+Milky Way	Milky Way 🌌
 mimosa	mimosa 🍹
 mind	mind 🤯
 minibus	minibus 🚐
@@ -3004,13 +2359,13 @@ minivan	minivan 🚐 🚙
 minors	minors 🔞
 minstrel	minstrel 👨‍🎤 👩‍🎤
 minus	minus ➖
-miquelonnais	miquelonnais 🇵🇲
+Miquelonnais	Miquelonnais 🇵🇲
 misbaha	misbaha 📿
 mischievous	mischievous 😏 😼
 miss	miss 😘
 missing	missing 😘
-mlb	mlb ⚾️
-mls	mls ⚽️
+MLB	MLB ⚾️
+MLS	MLS ⚽️
 mmm	mmm 🤔 😋
 mmmm	mmmm 😋
 moai	moai 🗿
@@ -3020,39 +2375,39 @@ mochi	mochi 🍡
 moderator	moderator 👨‍⚖️ 👩‍⚖️
 moisturizer	moisturizer 🧴
 moisturizers	moisturizers 🧴
-mojave	mojave 🏜
+Mojave	Mojave 🏜
 mojito	mojito 🍹
 molar	molar 🦷
 molars	molars 🦷
-moldova	moldova 🇲🇩
-moldovan	moldovan 🇲🇩
+Moldova	Moldova 🇲🇩
+Moldovan	Moldovan 🇲🇩
 mollusk	mollusk 🐚 🦑 🦪
 mollusks	mollusks 🦑 🦪
-monacan	monacan 🇲🇨
-monaco	monaco 🇲🇨
+Monacan	Monacan 🇲🇨
+Monaco	Monaco 🇲🇨
 money-mouth	money-mouth 🤑
-mongolia	mongolia 🇲🇳
-mongolian	mongolian 🇲🇳
+Mongolia	Mongolia 🇲🇳
+Mongolian	Mongolian 🇲🇳
 monitor	monitor 🖥
 monkeys	monkeys 🐒 🐵
 monocle	monocle 🧐
-montenegrin	montenegrin 🇲🇪
-montenegro	montenegro 🇲🇪
+Montenegrin	Montenegrin 🇲🇪
+Montenegro	Montenegro 🇲🇪
 monthly	monthly 🗓 🈷️
-montserrat	montserrat 🇲🇸
-montserratan	montserratan 🇲🇸
+Montserrat	Montserrat 🇲🇸
+Montserratan	Montserratan 🇲🇸
 monument	monument 🏟 🗽
 monuments	monuments 🗽
-monégasque	monégasque 🇲🇨
+Monégasque	Monégasque 🇲🇨
 moo	moo 🐄 🐮
 mood	mood ☠️
 mooncake	mooncake 🥮
 mooncakes	mooncakes 🥮
 moped	moped 🏍
 mopey	mopey 😔 😞
-moroccan	moroccan 🇲🇦
-morocco	morocco 🇲🇦
-moscow	moscow 🍹
+Moroccan	Moroccan 🇲🇦
+Morocco	Morocco 🇲🇦
+Moscow	Moscow 🍹
 mosque	mosque 🕌
 mosques	mosques 🕌
 mosquito	mosquito 🦟
@@ -3061,7 +2416,7 @@ mosquitos	mosquitos 🦟
 mostly	mostly 🌥
 motel	motel 🏨
 motels	motels 🏨
-mother	mother 🤶
+Mother Christmas	Mother Christmas 🤶
 motor	motor 🚤 🛥 🛵
 motorbike	motorbike 🏍
 motorboat	motorboat 🚤 🛥
@@ -3077,11 +2432,12 @@ mouths	mouths 👄
 movies	movies 🎥
 moving	moving 🚚
 moyai	moyai 🗿
-mozambican	mozambican 🇲🇿
-mozambique	mozambique 🇲🇿
-mr	mr 🎅
-mrs	mrs 🤶
-mt	mt 🌋 🗻
+Mozambican	Mozambican 🇲🇿
+Mozambique	Mozambique 🇲🇿
+Mr	Mr 🎅
+Mrs	Mrs 🤶
+Mt	Mt 🌋 🗻
+mt.	mt. 🌋 🗻
 muah	muah 💋 😘 😚
 muahaha	muahaha 🦹‍♀️ 🦹‍♂️ 😈
 muahahaha	muahahaha 🦹‍♀️ 🦹‍♂️
@@ -3096,36 +2452,36 @@ museum	museum 🎫 🎭
 mushroom	mushroom 🍄
 mushrooms	mushrooms 🍄
 musician	musician 👨‍🎤 👩‍🎤
-muslim	muslim 🕌
+Muslim	Muslim 🕌
 mustache	mustache 👨
 mute	mute 🔇 🔈 🔕
 muted	muted 🔇 🔈 🔕
 mwah	mwah 💋 😘 😚
-myanmar	myanmar 🇲🇲
+Myanmar	Myanmar 🇲🇲
 nail	nail 💅
 nails	nails 💅
 namaste	namaste 🙏
 name	name 📛
-namibia	namibia 🇳🇦
-namibian	namibian 🇳🇦
+Namibia	Namibia 🇳🇦
+Namibian	Namibian 🇳🇦
 nanna	nanna 👵
 nap	nap 💤 😴
 napa	napa 🥬
 napping	napping 💤 😴
-naruto	naruto 🍥
+Naruto	Naruto 🍥
 nascar	nascar 🏁
 nasty	nasty 🤢 😷
 national	national 🏞
 nations	nations 🇺🇳
-nauru	nauru 🇳🇷
-nauruan	nauruan 🇳🇷
+Nauru	Nauru 🇳🇷
+Nauruan	Nauruan 🇳🇷
 nauseated	nauseated 🤢
 navigating	navigating 🧭
 navigation	navigation 🧭
 navigational	navigational 🧭
 navigator	navigator 👨‍✈️ 👩‍✈️
 nazar	nazar 🧿
-nba	nba 🏀
+NBA	NBA 🏀
 necktie	necktie 👔
 necromancer	necromancer 🧙‍♀️ 🧙‍♂️
 necromancers	necromancers 🧙‍♀️ 🧙‍♂️
@@ -3135,31 +2491,31 @@ negative	negative 👎
 negatives	negatives 🎞
 neglected	neglected 😩
 neighborhood	neighborhood 👀
-nepal	nepal 🇳🇵
-nepalese	nepalese 🇳🇵
+Nepal	Nepal 🇳🇵
+Nepalese	Nepalese 🇳🇵
 nest	nest 🕸
-netherlands	netherlands 🇳🇱
+Netherlands	Netherlands 🇳🇱
 neutral	neutral 😐 😑
-nevada	nevada 🌵
-nevis	nevis 🇰🇳
+Nevada	Nevada 🌵
+Nevis	Nevis 🇰🇳
 newborn	newborn 👶
 newborns	newborns 👶
 news	news 📰 🗞
 newspaper	newspaper 📰 🗞
-nfl	nfl 🏈
-ng	ng 🆖
-nicaragua	nicaragua 🇳🇮
-nicaraguan	nicaraguan 🇳🇮
+NFL	NFL 🏈
+NG	NG 🆖
+Nicaragua	Nicaragua 🇳🇮
+Nicaraguan	Nicaraguan 🇳🇮
 nice	nice ☀️ 👍
-niger	niger 🇳🇪
-nigeria	nigeria 🇳🇬
-nigerian	nigerian 🇳🇬
-nigerien	nigerien 🇳🇪
+Niger	Niger 🇳🇪
+Nigeria	Nigeria 🇳🇬
+Nigerian	Nigerian 🇳🇬
+Nigerien	Nigerien 🇳🇪
 nigiri	nigiri 🍣
 nine	nine 🕘 🕤 9️⃣
 nine-thirty	nine-thirty 🕤
-niue	niue 🇳🇺
-niuean	niuean 🇳🇺
+Niue	Niue 🇳🇺
+Niuean	Niuean 🇳🇺
 noise	noise 💥
 nom	nom 🤤 😋
 nomnom	nomnom 🤤 😋
@@ -3169,11 +2525,13 @@ noodle	noodle 🍜 🍲
 noodles	noodles 🍝
 noon	noon 🕛
 nope	nope 👎 🙅‍♀️ 🙅‍♂️
-norfolk	norfolk 🇳🇫
-north	north ↖️ ↗️ 🇰🇵 🇲🇰 ⬆️
-northern	northern 🇲🇵
-norway	norway 🇳🇴
-norwegian	norwegian 🇳🇴
+Norfolk	Norfolk 🇳🇫
+north	north ↖️ ↗️ ⬆️
+Northern Mariana	Northern Mariana 🇲🇵
+North Korea	North Korea 🇰🇵
+North Macedonia	North Macedonia 🇲🇰
+Norway	Norway 🇳🇴
+Norwegian	Norwegian 🇳🇴
 nose	nose 🐽 👃
 noses	noses 👃
 nostril	nostril 🐽 👃
@@ -3206,13 +2564,14 @@ oil	oil 🛢
 oink	oink 🐖 🐷 🐽
 ointment	ointment 🧴
 ointments	ointments 🧴
-ok	ok 👌 🆗
+OK	OK 👌 🆗
+okay	okay 👌 🆗
 old	old 👨‍🌾 👩‍🌾
 older	older 👴 🧓
 olive	olive 🍸 🕊
 om	om 🕉
-oman	oman 🇴🇲
-omani	omani 🇴🇲
+Oman	Oman 🇴🇲
+Omani	Omani 🇴🇲
 one-hump	one-hump 🐪
 one-piece	one-piece 🩱
 one-thirty	one-thirty 🕜
@@ -3225,7 +2584,7 @@ ooh	ooh 😮 😯 😲
 ooof	ooof 😅
 oooh	oooh 😮 😯 😲
 oops	oops 😬 🙊
-ophiuchus	ophiuchus ⛎
+Ophiuchus	Ophiuchus ⛎
 optical	optical 💽 💿
 oranges	oranges 🍊
 orangutan	orangutan 🦧
@@ -3234,7 +2593,7 @@ orchestra	orchestra 🎼
 oregano	oregano 🌿
 orthodontist	orthodontist 🦷
 orthodontists	orthodontists 🦷
-orthodox	orthodox ☦️
+Orthodox	Orthodox ☦️
 otter	otter 🦦
 otters	otters 🦦
 ouch	ouch 🤕 😓 😣
@@ -3260,7 +2619,7 @@ oww	oww 🤕 😓 😣
 owww	owww 🤕 😓 😣
 ox	ox ♉️ 🐂
 oxen	oxen 🐂
-oxfords	oxfords 👞
+Oxfords	Oxfords 👞
 oyster	oyster 🦪
 oysters	oysters 🦪
 p	p 🅿️
@@ -3282,19 +2641,19 @@ paintbrushes	paintbrushes 🖌
 painter	painter 🎨 👨‍🎨 👩‍🎨
 painting	painting 🎨 💅 🖼
 paintings	paintings 🖼
-pakistan	pakistan 🇵🇰
-pakistani	pakistani 🇵🇰
-palau	palau 🇵🇼
-palauan	palauan 🇵🇼
-palestine	palestine 🇵🇸
-palestinian	palestinian 🇵🇸
+Pakistan	Pakistan 🇵🇰
+Pakistani	Pakistani 🇵🇰
+Palau	Palau 🇵🇼
+Palauan	Palauan 🇵🇼
+Palestine	Palestine 🇵🇸
+Palestinian	Palestinian 🇵🇸
 palette	palette 🎨
 palettes	palettes 🎨
 palms	palms 🤲
 pals	pals 👯‍♀️
 pan	pan 🍳 🥘
-panama	panama 🇵🇦
-panamanian	panamanian 🇵🇦
+Panama	Panama 🇵🇦
+Panamanian	Panamanian 🇵🇦
 pancake	pancake 🥞
 pancakes	pancakes 🥞
 panda	panda 🐼
@@ -3308,13 +2667,13 @@ pants	pants 👖
 papa	papa 👴
 paperclip	paperclip 📎
 paperclips	paperclips 🖇
-papua	papua 🇵🇬
-papuan	papuan 🇵🇬
+Papua	Papua 🇵🇬
+Papuan	Papuan 🇵🇬
 parachute	parachute 🪂
 parachutes	parachutes 🪂
 parachuting	parachuting 🪂
-paraguay	paraguay 🇵🇾
-paraguayan	paraguayan 🇵🇾
+Paraguay	Paraguay 🇵🇾
+Paraguayan	Paraguayan 🇵🇾
 paramedic	paramedic 🚑 🚒
 parasail	parasail 🪂
 parasailing	parasailing 🪂
@@ -3371,8 +2730,6 @@ penguin	penguin 🐧
 penguins	penguins 🐧
 pens	pens 🖊
 pensive	pensive 🤔 😔
-people	people 🇨🇳
-peoples	peoples 🇨🇳
 pepperoni	pepperoni 🍕
 perfect	perfect 👌
 performance	performance 🎟 🎤 🎭
@@ -3382,26 +2739,24 @@ periodontics	periodontics 🦷
 periodontist	periodontist 🦷
 periodontists	periodontists 🦷
 perplexed	perplexed 🤔 😕
-perscription	perscription 🤓
 persevering	persevering 😖 😣
 perturbed	perturbed 😤
-peru	peru 🇵🇪
-peruvian	peruvian 🇵🇪
+Peru	Peru 🇵🇪
+Peruvian	Peruvian 🇵🇪
 petri	petri 🧫
 petrie	petrie 🧫
 petrol	petrol ⛽️
 petroleum	petroleum ⛽️
 pfff	pfff 💨
 pfft	pfft 💨
-pga	pga ⛳️
+PGA	PGA ⛳️
 phew	phew 😅
-philippine	philippine 🇵🇭
-philippines	philippines 🇵🇭
+Philippines	Philippines 🇵🇭
 pho	pho 🍜 🍲
 physician	physician 👨‍⚕️ 👩‍⚕️
 physicist	physicist 👨‍🔬 👩‍🔬
 physicists	physicists 👨‍🔬 👩‍🔬
-pi	pi 🕵️‍♀️ 🕵️‍♂️
+PI	PI 🕵️‍♀️ 🕵️‍♂️
 piano	piano 🎹
 pianos	pianos 🎹
 pick	pick ⚒️ ⛏️
@@ -3417,7 +2772,7 @@ pile	pile 💩 📚
 pill	pill 💊
 pills	pills 💊
 pilot	pilot 👨‍✈️ 👩‍✈️ 🧑‍✈️
-pimm	pimm 🍹
+Pimm	Pimm 🍹
 pin	pin 📌 📍 🧷
 pinch	pinch 🤏
 pinching	pinching 🤏
@@ -3434,12 +2789,12 @@ pints	pints 🍺 🍻
 piracy	piracy 🏴‍☠️
 pirate	pirate 🏴‍☠️
 pirates	pirates 🏴‍☠️
-pisces	pisces ♓️
+Pisces	Pisces ♓️
 pissed	pissed 😠 😤
 pistol	pistol 🔫
 pita	pita 🥙
 pitas	pitas 🥙
-pitcairn	pitcairn 🇵🇳
+Pitcairn	Pitcairn 🇵🇳
 pixie	pixie 🧚‍♀️ 🧚‍♂️
 pixies	pixies 🧚‍♀️ 🧚‍♂️
 pizza	pizza 🍕
@@ -3469,13 +2824,13 @@ poison	poison ☠️
 poisoned	poisoned 🤢
 poisonous	poisonous ☠️
 poker	poker ♥️ ♦️
-poland	poland 🇵🇱
+Poland	Poland 🇵🇱
 pole	pole 🎣 🎿 💈
 policeman	policeman 👮‍♂️
 policemen	policemen 👮‍♂️
 policewoman	policewoman 👮‍♀️
 policewomen	policewomen 👮‍♀️
-polish	polish 🇵🇱
+Polish	Polish 🇵🇱
 pollo	pollo 🍗
 polo	polo 👕
 polos	polos 👕
@@ -3503,8 +2858,8 @@ porpoises	porpoises 🐬
 porridge	porridge 🥣
 portfolio	portfolio 💼
 portfolios	portfolios 💼
-portugal	portugal 🇵🇹
-portuguese	portuguese 🇵🇹
+Portugal	Portugal 🇵🇹
+Portuguese	Portuguese 🇵🇹
 positive	positive 📈 📉
 postbox	postbox 📮
 posting	posting 📋
@@ -3523,7 +2878,7 @@ poultry	poultry 🍗
 pound	pound #️⃣ 💷
 pounding	pounding 💓 💗
 pounds	pounds 💷
-pow	pow 💥
+POW	POW 💥
 power	power 🔌
 powerboat	powerboat 🚤 🛥
 powerboats	powerboats 🚤 🛥
@@ -3533,6 +2888,7 @@ prayer	prayer 📿 🙏 🛐
 praying	praying 🧎‍♀️ 🧎‍♂️ 🙏
 pregnancy	pregnancy 🤰
 pregnant	pregnant 🤰
+prescription	prescription 🤓
 present	present 🎁 💝
 presentation	presentation 🎫
 pretty	pretty 👸 🥺 🙏
@@ -3565,7 +2921,7 @@ prrr	prrr 😸 😺 😻
 pua	pua 🌺
 public	public 📢 🚇
 puck	puck 🏏 🏒
-puerto	puerto 🇵🇷
+Puerto Rico	Puerto Rico 🇵🇷
 puff	puff 💨
 puhleez	puhleez 🥺
 puhweez	puhweez 🥺
@@ -3598,8 +2954,8 @@ pyros	pyros 🧨
 pyrotechnics	pyrotechnics 🧨
 python	python 🐍
 pythons	pythons 🐍
-qatar	qatar 🇶🇦
-qatari	qatari 🇶🇦
+Qatar	Qatar 🇶🇦
+Qatari	Qatari 🇶🇦
 quarter	quarter 🌛 🌜
 queen	queen 👑 👸
 queens	queens 👸
@@ -3669,7 +3025,9 @@ reminder	reminder 🎗
 repeat	repeat 🔁 🔂
 reptile	reptile 🦎
 reptiles	reptiles 🦎
-republic	republic 🇨🇬 🇮🇪 🇹🇼
+Republic of China	Republic of China 🇹🇼
+Republic of Congo	Republic of Congo 🇨🇬
+Republic of Ireland	republic of Ireland 🇮🇪
 rescue	rescue ⛑️
 reserved	reserved 🈯️
 residence	residence 🏠 🏡
@@ -3702,7 +3060,7 @@ rightwards	rightwards ➡️
 ring	ring 💍
 ringed	ringed 🪐
 rioja	rioja 🍷
-rip	rip 💀
+RIP	RIP 💀
 ripped	ripped 💔
 river	river 🏞 🦦
 roadwork	roadwork 🚧
@@ -3729,8 +3087,8 @@ rollercoaster	rollercoaster 🎢
 rollercoasters	rollercoasters 🎢
 rolling	rolling 🤣 🙄
 roman	roman 🏛 🧨
-romania	romania 🇷🇴
-romanian	romanian 🇷🇴
+Romania	Romania 🇷🇴
+Romanian	Romanian 🇷🇴
 rooster	rooster 🐓 🐔
 roosters	roosters 🐓 🐔
 root	root 🦷
@@ -3757,22 +3115,22 @@ ruler	ruler 📏 📐
 run	run 🏃‍♀️ 🏃‍♂️ 🏚
 runner	runner 🏃 🏃‍♀️ 🏃‍♂️
 runners	runners 🏃‍♀️ 🏃‍♂️
-russia	russia 🇷🇺
-russian	russian ☦️ 🇷🇺
-rv	rv 🚙
-rwanda	rwanda 🇷🇼
-rwandan	rwandan 🇷🇼
+Russia	Russia 🇷🇺
+Russian	Russian ☦️ 🇷🇺
+RV	RV 🚙
+Rwanda	Rwanda 🇷🇼
+Rwandan	Rwandan 🇷🇼
 rwar	rwar 🐯 🦁
-réunion	réunion 🇷🇪
-réunionese	réunionese 🇷🇪
-réunionnais	réunionnais 🇷🇪
+Réunion	Réunion 🇷🇪
+Réunionese	Réunionese 🇷🇪
+Réunionnais	Réunionnais 🇷🇪
 saddlebag	saddlebag 💼
-sagittarius	sagittarius ♐️
-sahrawi	sahrawi 🇪🇭
+Sagittarius	Sagittarius ♐️
+Sahrawi	Sahrawi 🇪🇭
 sailboat	sailboat ⛵️
 sailboats	sailboats ⛵️
 sailing	sailing ⛵️
-saint-pierrais	saint-pierrais 🇵🇲
+Saint-Pierrais	Saint-Pierrais 🇵🇲
 sake	sake 🍶
 salad	salad 🥗
 sale	sale 🏷
@@ -3788,13 +3146,12 @@ saloon	saloon 🎯
 salsa	salsa 💃
 salt	salt 🧂
 salud	salud 🤧
-salvadorean	salvadorean 🇸🇻
+Salvadorean	Salvadorean 🇸🇻
 salve	salve 🧴
 salves	salves 🧴
-sammarinese	sammarinese 🇸🇲
-samoa	samoa 🇼🇸
-samoan	samoan 🇼🇸
-san	san 🇸🇲
+Sammarinese	Sammarinese 🇸🇲
+Samoa	Samoa 🇼🇸
+Samoan	Samoan 🇼🇸
 sand	sand ⌛️ ⏳ ⛱️
 sandal	sandal 👡
 sandals	sandals 👡
@@ -3803,11 +3160,13 @@ sandwich	sandwich 🥙 🥪
 sandwiches	sandwiches 🥪
 sangiovese	sangiovese 🍷
 sangria	sangria 🍹
-santa	santa 🎅
-sao	sao 🇸🇹
+Santa	Santa 🎅
+Santa Claus	Santa Claus 🤶
+San Marino	San Marino 🇸🇲
+Sao Tome and Principe	Sao Tome and Principe 🇸🇹
 sari	sari 🥻
 saris	saris 🥻
-sars	sars 😷
+SARS	SARS 😷
 sashimi	sashimi 🍣
 saskwatch	saskwatch 👣
 sass	sass 💁‍♀️ 💁‍♂️
@@ -3815,8 +3174,8 @@ sassy	sassy 💁‍♀️ 💁‍♂️
 satchel	satchel 💼
 satellite	satellite 📡 🛰
 satellites	satellites 📡 🛰
-saturn	saturn 🪐
-saudi	saudi 🇸🇦
+Saturn	Saturn 🪐
+Saudi	Saudi 🇸🇦
 sauna	sauna 🧖‍♀️ 🧖‍♂️
 sauropod	sauropod 🦕
 sauropod-like	sauropod-like 🦕
@@ -3851,11 +3210,11 @@ scooter	scooter 🏍 🛴 🛵
 scooters	scooters 🛴
 scorched	scorched 🥵
 scorching	scorching 🥵
-scorpio	scorpio ♏️
-scorpion	scorpion ♏️ 🦂
+Scorpio	Scorpio ♏️
+scorpion	scorpion 🦂
 scorpions	scorpions 🦂
-scotland	scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿
-scottish	scottish 🏴󠁧󠁢󠁳󠁣󠁴󠁿
+Scotland	Scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿
+Scottish	Scottish 🏴󠁧󠁢󠁳󠁣󠁴󠁿
 scratch	scratch 📝
 scream	scream 😱
 screaming	screaming 😱 🙀
@@ -3866,7 +3225,7 @@ scrubber	scrubber 🧽
 scrubbing	scrubbing 🧽
 scrubby	scrubby 🧽
 scuba	scuba 🤿
-seabiscuit	seabiscuit 🏇
+Seabiscuit	Seabiscuit 🏇
 seafood	seafood 🦐 🦞
 seal	seal 🤝
 sealed	sealed 💌
@@ -3879,7 +3238,7 @@ seated	seated 🪑
 seats	seats 💺
 second	second 🥈
 secret	secret 🕵️‍♀️ 🕵️‍♂️ ㊙️
-secretariat	secretariat 🏇
+Secretariat	Secretariat 🏇
 secretary	secretary 👨‍💼 👩‍💼
 sedan	sedan 🚗 🚘
 sedans	sedans 🚘
@@ -3891,11 +3250,11 @@ seeing	seeing 🔮 🤑
 seething	seething 😤
 selfie	selfie 🤳
 semi	semi 🚚 🚛
-senegal	senegal 🇸🇳
-senegalese	senegalese 🇸🇳
+Senegal	Senegal 🇸🇳
+Senegalese	Senegalese 🇸🇳
 senior	senior 🧓
-serbia	serbia 🇷🇸
-serbian	serbian 🇷🇸
+Serbia	Serbia 🇷🇸
+Serbian	Serbian 🇷🇸
 serious	serious 🧐 🙎‍♀️ 🙎‍♂️
 serpent-entwined	serpent-entwined ⚕️
 service	service 🐕‍🦺 🦮 🈂️
@@ -3906,8 +3265,8 @@ sewed	sewed 🧵
 sewing	sewing 🧵
 sews	sews 🧵
 sex	sex 🍹
-seychelles	seychelles 🇸🇨
-seychellois	seychellois 🇸🇨
+Seychelles	Seychelles 🇸🇨
+Seychellois	Seychellois 🇸🇨
 shaka	shaka 🤙
 shallow	shallow 🥘
 shampoo	shampoo 💆‍♀️ 💆‍♂️ 🧴
@@ -3925,15 +3284,15 @@ sheet	sheet 🎼
 shell	shell 🐚
 shellfish	shellfish 🦐 🦞 🦪
 shells	shells 🐚
-sherlock	sherlock 🕵️‍♀️ 🕵️‍♂️
+Sherlock	Sherlock 🕵️‍♀️ 🕵️‍♂️
 shh	shh 🤫
 shhh	shhh 🤫
 shield	shield 🛡
 shields	shields 🛡
 shine	shine ✨
 shining	shining ✨ 🌟
-shinkansen	shinkansen 🚅
-shinto	shinto ⛩️
+Shinkansen	Shinkansen 🚅
+Shinto	Shinto ⛩️
 shipment	shipment 📦 🚚
 shipments	shipments 📦 🚚
 ships	ships 🚢 🛳
@@ -3968,7 +3327,7 @@ shuttlecock	shuttlecock 🏸
 shy	shy ☺️
 side	side 🥗
 sideways	sideways 🐒 😕 😾
-sierra	sierra 🇸🇱
+Sierra Leone	Sierra Leone 🇸🇱
 sigh	sigh 😔
 signal	signal 📶 🚨
 silence	silence 📳
@@ -3976,11 +3335,11 @@ silent	silent 😶
 silhouettes	silhouettes 👥
 silverware	silverware 🍴 🍽 🥄
 sing	sing 🎤 🎵 🎶
-singapore	singapore 🇸🇬
-singaporean	singaporean 🇸🇬
+Singapore	Singapore 🇸🇬
+Singaporean	Singaporean 🇸🇬
 singer	singer 👨‍🎤 👩‍🎤 🧑‍🎤
 singing	singing 🎤
-sint	sint 🇸🇽
+Sint Maarten	Sint Maarten 🇸🇽
 sirens	sirens 🚨
 sisters	sisters 👯‍♀️
 sit	sit 🪑
@@ -4036,7 +3395,6 @@ slight	slight 🙂
 slightly	slightly 🙁 🙂
 slip-on	slip-on 🥿
 slip-ons	slip-ons 🥿
-slipons	slipons 🥿
 slipper	slipper 🥿
 slippers	slippers 🥿
 slobber	slobber 👅 💦 🤤
@@ -4049,18 +3407,18 @@ slot	slot 🎰
 sloth	sloth 🦥
 sloths	sloths 🦥
 slots	slots 🎰
-slovak	slovak 🇸🇰
-slovakia	slovakia 🇸🇰
-slovene	slovene 🇸🇮
-slovenia	slovenia 🇸🇮
-slovenian	slovenian 🇸🇮
+Slovak	Slovak 🇸🇰
+Slovakia	Slovakia 🇸🇰
+Slovene	Slovene 🇸🇮
+Slovenia	Slovenia 🇸🇮
+Slovenian	Slovenian 🇸🇮
 slug	slug 🐌
 slugburger	slugburger 🍔
 slugs	slugs 🐌
 smart	smart 📱
 smartphone	smartphone 📲
 smelling	smelling 👃
-smh	smh 🤦‍♀️ 🤦‍♂️
+SMH	SMH 🤦‍♀️ 🤦‍♂️
 smileys	smileys 🤓 🤩 🤭
 smirk	smirk 😏
 smirking	smirking 😏 😼
@@ -4074,7 +3432,7 @@ snails	snails 🐌
 snake	snake 🐍
 snakes	snakes 🐍
 snaky	snaky 🐍
-snapstreak	snapstreak 🔥
+snap-streak	snap-streak 🔥
 snare	snare 🥁
 sneaker	sneaker 👟
 sneakers	sneakers 👟
@@ -4101,6 +3459,8 @@ snorkel	snorkel 🤿
 snorkeling	snorkeling 🤿
 snot	snot 😪
 snow-capped	snow-capped 🏔
+snow-person	snow-person ☃️ ⛄️
+snow-woman	snow-woman ☃️ ⛄️
 snowboarder	snowboarder 🏂
 snowboarding	snowboarding 🏂
 snowflake	snowflake ❄️
@@ -4108,8 +3468,6 @@ snowflakes	snowflakes ❄️
 snowing	snowing 🌨
 snowman	snowman ☃️ ⛄️
 snowmen	snowmen ⛄️
-snowperson	snowperson ☃️ ⛄️
-snowwoman	snowwoman ☃️ ⛄️
 snowy	snowy ❄️ 🏔 🗻
 snuggle	snuggle 🥰
 snuggles	snuggles 🥰
@@ -4132,9 +3490,9 @@ softballs	softballs 🥎
 soldering	soldering 👨‍🏭 👩‍🏭
 solemn	solemn ☹️ 😔 🙁
 soloist	soloist 👨‍🎤 👩‍🎤
-solomon	solomon 🇸🇧
-somali	somali 🇸🇴
-somalia	somalia 🇸🇴
+Solomon	Solomon 🇸🇧
+Somali	Somali 🇸🇴
+Somalia	Somalia 🇸🇴
 somber	somber ☹️ 😔 🙁
 soon	soon 🔜
 sorcerer	sorcerer 🧙 🧙‍♂️
@@ -4142,7 +3500,7 @@ sorcerers	sorcerers 🧙‍♂️
 sorceress	sorceress 🧙‍♀️
 sorceresses	sorceresses 🧙‍♀️
 sorry	sorry 😐
-sos	sos 🆘
+SOS	SOS 🆘
 sounds	sounds 👌 👍
 soup	soup 🍜 🍲 🥣
 sous	sous 👨‍🍳 👩‍🍳
@@ -4151,8 +3509,8 @@ spa	spa 🧖‍♀️ 🧖‍♂️
 spade	spade ♠️
 spades	spades ♠️
 spaghetti	spaghetti 🍝
-spain	spain 🇪🇸
-spanish	spanish 🇪🇸
+Spain	Spain 🇪🇸
+Spanish	Spanish 🇪🇸
 spark	spark ⚡️
 sparking	sparking 💖
 sparkle	sparkle ❇️ 💖
@@ -4170,7 +3528,7 @@ speedboat	speedboat 🚤 🛥
 speedboats	speedboats 🚤
 speeding	speeding 🏎
 spf	spf 🧴
-spfs	spfs 🧴
+SPFs	SPFs 🧴
 spicy	spicy 🥵
 spider	spider 🕷 🕸
 spiders	spiders 🕷
@@ -4179,7 +3537,7 @@ spiderwebs	spiderwebs 🕸
 spies	spies 🕵️‍♀️ 🕵️‍♂️
 spirit	spirit 👐
 splash	splash 💦
-spock	spock 🖖
+Spock	Spock 🖖
 sponge	sponge 🧽
 sponges	sponges 🧽
 spool	spool 🧵
@@ -4202,15 +3560,14 @@ squinting	squinting 😁 😄
 squinty	squinty 🤣 🤤
 squirrel	squirrel 🐿
 squirrels	squirrels 🐿
-sri	sri 🇱🇰
-st	st ☘️ 🌋
+Sri Lanka	Sri Lanka 🇱🇰
 stack	stack 📚 🥞
 stadium	stadium 🏟
 stadiums	stadiums 🏟
 staff	staff ⚕️
 stand	stand 🧍‍♀️ 🧍‍♂️
-stanley	stanley 🏆
-star	star ✡️
+Stanley	Stanley 🏆
+Star	Star ✡️
 star-spangled	star-spangled 🇺🇸
 star-struck	star-struck 🤩
 stargazing	stargazing 🔭
@@ -4218,7 +3575,7 @@ starry	starry 🌌 🌠 🤩
 starry-eyed	starry-eyed 🤩
 start	start 🎬
 starting	starting 🏁
-state	state 🇵🇸
+State of Palestine	State of Palestine 🇵🇸
 station	station 🚉 🚙
 stations	stations 🚉
 statue	statue 🗽 🗿
@@ -4271,17 +3628,20 @@ stuffed	stuffed 🥙 🧸
 stumped	stumped 🤔
 stunned	stunned 😦 😧 😳
 stunner	stunner 😎
+St Patrick	St Patrick ☘️
+St Vincent	st Vincent 🌋
 subdivision	subdivision 🏘
 subtract	subtract ➖
 subtraction	subtraction ➖
 suburbia	suburbia 🏘
 subway	subway 🚇 🚉 🚋
-sudan	sudan 🇸🇩
-sudanese	sudanese 🇸🇩
+Sudan	Sudan 🇸🇩
+Sudanese	Sudanese 🇸🇩
 suffering	suffering 🤬
 suitcase	suitcase 🧳
 suitcases	suitcases 🧳
 sullen	sullen 😔
+sun-shower	sun-shower 🌦
 sunblock	sunblock 🧴
 sunburn	sunburn 🥵
 sunburns	sunburns 🥵
@@ -4296,14 +3656,13 @@ sunscreens	sunscreens 🧴
 sunset	sunset 🌅 🌆 🌇
 sunsets	sunsets 🌅 🌇
 sunshine	sunshine ☀️ 🌞
-sunshower	sunshower 🌦
 suntan	suntan 🧴
 super	super 🦹‍♀️ 🦹‍♂️
+super-humans	super-humans 🦸‍♀️ 🦸‍♂️
 supercuts	supercuts 💇‍♀️ 💇‍♂️
 superhero	superhero 🦸 🦸‍♀️ 🦸‍♂️
 superheroes	superheroes 🦸‍♀️ 🦸‍♂️
 superhuman	superhuman 🦸‍♀️ 🦸‍♂️
-superhumans	superhumans 🦸‍♀️ 🦸‍♂️
 supervillain	supervillain 🦹 🦹‍♀️ 🦹‍♂️
 supervillains	supervillains 🦹‍♀️ 🦹‍♂️
 support	support 🎗
@@ -4312,22 +3671,22 @@ surfer	surfer 🏄 🏄‍♀️ 🏄‍♂️
 surfers	surfers 🏄‍♀️ 🏄‍♂️
 surfing	surfing 🏄‍♀️ 🏄‍♂️
 surgeon	surgeon 👨‍⚕️ 👩‍⚕️ 😷
-suriname	suriname 🇸🇷
-surinamese	surinamese 🇸🇷
+Suriname	Suriname 🇸🇷
+Surinamese	Surinamese 🇸🇷
 surly	surly 😠
 sushi	sushi 🍣
 suspended	suspended 🚟
 suspension	suspension 🚟
 suspicious	suspicious 😒
-suv	suv 🚙
+SUV	SUV 🚙
 swan	swan 🦢
 swans	swans 🦢
-swazi	swazi 🇸🇿
-swaziland	swaziland 🇸🇿
+Swazi	Swazi 🇸🇿
+Swaziland	Swaziland 🇸🇿
 swearing	swearing 🤬
 sweaty	sweaty 🥵
-sweden	sweden 🇸🇪
-swedish	swedish 🇸🇪
+Sweden	Sweden 🇸🇪
+Swedish	Swedish 🇸🇪
 sweep	sweep 🧹
 sweeping	sweeping 🧹
 sweeps	sweeps 🧹
@@ -4341,21 +3700,21 @@ swimsuits	swimsuits 🩱
 swimwear	swimwear 🩱 🩲 🩳
 swirl	swirl 🍥
 swirling	swirling 💫
-swiss	swiss 🇨🇭
+Swiss	Swiss 🇨🇭
 switches	switches 🎚 🎛
-switzerland	switzerland 🇨🇭
+Switzerland	Switzerland 🇨🇭
 sword	sword ⚔️ 🗡 🤺
 swords	swords ⚔️ 🗡
 sympathy	sympathy 😨 😮
 synagogue	synagogue 🕍
 synagogues	synagogues 🕍
 syrah	syrah 🍷
-syria	syria 🇸🇾
-syrian	syrian 🇸🇾
+Syria	Syria 🇸🇾
+Syrian	Syrian 🇸🇾
 syringe	syringe 💉
 syringes	syringes 💉
-são	são 🇸🇹
-t-rex	t-rex 🦖
+São Tomé & Príncipe	São Tomé &  Príncipe 🇸🇹
+T-Rex	T-Rex 🦖
 ta-da	ta-da 🤗
 ta-dah	ta-dah 🤗
 tabbed	tabbed 📑 🗂
@@ -4364,15 +3723,15 @@ tableware	tableware 🍴 🍽
 tabs	tabs 📑
 taco	taco 🌮
 tacos	tacos 🌮
-tadjik	tadjik 🇹🇯
+Tadjik	Tadjik 🇹🇯
 tae	tae 🥋
 taekwondo	taekwondo 🥋
 tag	tag 🏷 🔖
 tags	tags 🏷
-taiwan	taiwan 🇹🇼
-taiwanese	taiwanese 🇹🇼
-tajik	tajik 🇹🇯
-tajikistan	tajikistan 🇹🇯
+Taiwan	Taiwan 🇹🇼
+Taiwanese	Taiwanese 🇹🇼
+Tajik	Tajik 🇹🇯
+Tajikistan	Tajikistan 🇹🇯
 taken	taken 😮 😯 😲
 takeoff	takeoff 🛫
 takeout	takeout 🥡
@@ -4387,15 +3746,15 @@ tangerine	tangerine 🍊
 tangerines	tangerines 🍊
 tank	tank 🎽
 tanning	tanning 👙
-tanzania	tanzania 🇹🇿
-tanzanian	tanzanian 🇹🇿
-tao	tao ☯️
-taoist	taoist ☯️
+Tanzania	Tanzania 🇹🇿
+Tanzanian	Tanzanian 🇹🇿
+Tao	Tao ☯️
+Taoist	Taoist ☯️
 tape	tape 📼
 target	target 🎯
 tasbih	tasbih 📿
 tasty	tasty 😋
-taurus	taurus ♉️
+Taurus	Taurus ♉️
 taxi	taxi 🚕 🚖
 tea	tea ☕️ 🍵
 teacher	teacher 👨‍🏫 👩‍🏫 🧑‍🏫
@@ -4442,15 +3801,14 @@ tequila	tequila 🍹
 teriyaki	teriyaki 🍲
 test	test 🧪
 tetanus	tetanus 💉
-texas	texas 🌵
+Texas	Texas 🌵
 textbook	textbook 📚
 textbooks	textbooks 📚
-thai	thai 🇹🇭
-thailand	thailand 🇹🇭
+Thai	Thai 🇹🇭
+Thailand	Thailand 🇹🇭
 thank	thank ☺️ 😅 🙏
 thankfully	thankfully 😅
 thanks	thanks 🙏
-the	the 🏛 🗽
 theater	theater 🎫 🎭 🚃
 theaters	theaters 🎭
 theatre	theatre 🎫 🎭
@@ -4477,7 +3835,6 @@ thunderclap	thunderclap ⚡️
 thunderstorm	thunderstorm ⛈ 🌩
 thunderstorms	thunderstorms ⛈ 🌩
 thx	thx ☺️ 🙏
-tian	tian 🐼
 tiara	tiara 👸
 tibia	tibia 🦴
 tibias	tibias 🦴
@@ -4494,38 +3851,37 @@ tile	tile 🀄️
 timer	timer ⏰ ⏱️ ⏲️
 timers	timers ⏱️ ⏲️
 times	times ✖️
-timor-leste	timor-leste 🇹🇱
-timorese	timorese 🇹🇱
+Timor-Leste	Timor-Leste 🇹🇱
+Timorese	Timorese 🇹🇱
 tipped	tipped 💁‍♀️ 💁‍♂️
 tipping	tipping 💁‍♀️ 💁‍♂️
 tipsy	tipsy 🥴
 tissue	tissue 🤧
 tittered	tittered 🤭
 tittering	tittering 🤭
-tm	tm ™️
-tnt	tnt 🧨
+TM	TM ™️
+TNT	TNT 🧨
 to	to 🥤
 to-go	to-go 🥤
 toadstool	toadstool 🍄
 toast	toast 🍻
 toasting	toasting 🍻 🍾
 toasts	toasts 🥂
-tobago	tobago 🇹🇹
-tobagonian	tobagonian 🇹🇹
-togo	togo 🇹🇬
-togolese	togolese 🇹🇬
+Tobago	Tobago 🇹🇹
+Tobagonian	Tobagonian 🇹🇹
+Togo	Togo 🇹🇬
+Togolese	Togolese 🇹🇬
 toilet	toilet 🧻 🚽
 toiletries	toiletries 🧴
 toilets	toilets 🚽
-tokelau	tokelau 🇹🇰
-tokelauan	tokelauan 🇹🇰
-tokyo	tokyo 🗼
+Tokelau	Tokelau 🇹🇰
+Tokelauan	Tokelauan 🇹🇰
+Tokyo	Tokyo 🗼
 toll	toll ➿
 tomato	tomato 🍅 🥫
 tomatoes	tomatoes 🍅
-tomatos	tomatos 🍅
-tonga	tonga 🇹🇴
-tongan	tongan 🇹🇴
+Tonga	Tonga 🇹🇴
+Tongan	Tongan 🇹🇴
 toolbox	toolbox 🧰
 toolboxes	toolboxes 🧰
 tooth	tooth 🦷
@@ -4578,12 +3934,12 @@ triangular	triangular 📐 🚩
 trick	trick 👻
 trident	trident 🔱
 tridents	tridents 🔱
-trimphant	trimphant 😤
-trinidad	trinidad 🇹🇹
-trinidadian	trinidadian 🇹🇹
+Trinidad	Trinidad 🇹🇹
+Trinidadian	Trinidadian 🇹🇹
 trinket	trinket 📿
 triton	triton 🔱 🧜‍♂️
 triumph	triumph 😤
+triumphant	triumphant 😤
 trolley	trolley 🚃 🚋 🚎
 trolleybus	trolleybus 🚎
 trolleys	trolleys 🚃 🚎
@@ -4596,33 +3952,34 @@ trumpet	trumpet 🎺
 trumpets	trumpets 🎺
 tsunami	tsunami 🌊
 tsunamis	tsunamis 🌊
-ttfn	ttfn 👋
+TTFN	TTFN 👋
 tub	tub 🛀 🛁
 tubs	tubs 🛁
 tuk	tuk 🛺
 tulip	tulip 🌷 💐
 tulips	tulips 🌷 💐
 tumbler	tumbler 🥃
-tunisia	tunisia 🇹🇳
-tunisian	tunisian 🇹🇳
+Tunisia	Tunisia 🇹🇳
+Tunisian	Tunisian 🇹🇳
 turban	turban 👳‍♀️ 👳‍♂️
 turd	turd 💩
 turds	turds 💩
-turkey	turkey 🇹🇷 🦃
+Turkey	Turkey 🇹🇷
+turkey	turkey 🦃
 turkeys	turkeys 🦃
-turkish	turkish 🇹🇷
-turkmen	turkmen 🇹🇲
-turkmenistan	turkmenistan 🇹🇲
-turkoman	turkoman 🇹🇲
-turks	turks 🇹🇨
+Turkish	Turkish 🇹🇷
+Turkmen	Turkmen 🇹🇲
+Turkmenistan	Turkmenistan 🇹🇲
+Turkoman	Turkoman 🇹🇲
+Turks	Turks 🇹🇨
 turn	turn 📴
 turnt	turnt 🥴
 turtle	turtle 🐢
 turtles	turtles 🐢
-tuvalu	tuvalu 🇹🇻
-tuvaluan	tuvaluan 🇹🇻
+Tuvalu	Tuvalu 🇹🇻
+Tuvaluan	Tuvaluan 🇹🇻
 tuxedo	tuxedo 🤵
-tv	tv 📺
+TV	TV 📺
 twelve	twelve 🕛 🕧
 twelve-thirty	twelve-thirty 🕧
 twenty	twenty 💷
@@ -4637,28 +3994,27 @@ two-piece	two-piece 👙
 two-thirty	two-thirty 🕝
 typhoon	typhoon 🌀
 tyrannosaurus	tyrannosaurus 🦖
-u	u 🇺🇳 🇺🇸 🇻🇮
-uae	uae 🇦🇪
+UAE	UAE 🇦🇪
 udon	udon 🍜
-ufo	ufo 🛸
-ufos	ufos 🛸
-uganda	uganda 🇺🇬
-ugandan	ugandan 🇺🇬
+UFO	UFO 🛸
+UFOs	UFOs 🛸
+Uganda	Uganda 🇺🇬
+Ugandan	Ugandan 🇺🇬
 ugh	ugh 😑 😩 😫
 ugly	ugly 🐥 🦢
 uhh	uhh 🤔 😬 🙄
 uhhh	uhhh 🤔 😬 🙄
 uhm	uhm 😐
-uk	uk 🇬🇧 💷
-ukraine	ukraine 🇺🇦
-ukrainian	ukrainian 🇺🇦
+UK	UK 🇬🇧 💷
+Ukraine	Ukraine 🇺🇦
+Ukrainian	Ukrainian 🇺🇦
 ulna	ulna 🦴
 um	um 😐
 umbrellas	umbrellas ☂ ☔️ 🌂
 umm	umm 🤔 🧐
 ummm	ummm 🤔 🧐
 ummmm	ummmm 🤨 😳
-un	un 🇺🇳
+UN	UN 🇺🇳
 unagi	unagi 🍣
 unamused	unamused 😐 😑 😒
 unbounded	unbounded ♾
@@ -4674,7 +4030,9 @@ uneven	uneven 🥴
 unicorn	unicorn 🦄
 unicorns	unicorns 🦄
 uniform	uniform 🥋
-union	union 🇬🇧
+Union Jack	Union Jack 🇬🇧
+United Nations	United Nations 🇺🇳
+United States	U States 🇺🇸
 university	university 🎓 🏫
 unlocked	unlocked 🔓
 unmute	unmute 📢 🔔
@@ -4694,15 +4052,16 @@ upward	upward 📈
 upwards	upwards ⬆️ 📈
 urn	urn ⚱️
 urns	urns ⚱️
-uruguay	uruguay 🇺🇾
-uruguayan	uruguayan 🇺🇾
-us	us 🇺🇸 🇻🇮
-usa	usa 🇺🇸
+Uruguay	Uruguay 🇺🇾
+Uruguayan	Uruguayan 🇺🇾
+US	US 🇺🇸
+USA	USA 🇺🇸
+US Virgin Islands	US Virgin Islands 🇻🇮
 utensil	utensil 🍴 🍽 🥄
 utility	utility ⛽️
 uv	uv 🧴
-uzbek	uzbek 🇺🇿
-uzbekistan	uzbekistan 🇺🇿
+Uzbek	Uzbek 🇺🇿
+Uzbekistan	Uzbekistan 🇺🇿
 vacancy	vacancy 🈳
 vacant	vacant 😐
 vaccination	vaccination 💉
@@ -4715,26 +4074,26 @@ vampire	vampire 🧛 🧛‍♀️ 🧛‍♂️
 vampires	vampires 🧛‍♀️ 🧛‍♂️
 van	van 🚐 🚙
 vanilla	vanilla 🍨
-vanuatu	vanuatu 🇻🇺
-vanuatuan	vanuatuan 🇻🇺
+Vanuatu	Vanuatu 🇻🇺
+Vanuatuan	Vanuatuan 🇻🇺
 vape	vape 💨
 vapor	vapor 💨
 vase	vase ⚱️ 🏺
-vatican	vatican 🇻🇦
+Vatican	Vatican 🇻🇦
 vegan	vegan 🌱
 veggie	veggie 🍲 🥬
 vehicles	vehicles 🚗 🛺
 veil	veil 👰
-venezuela	venezuela 🇻🇪
-venezuelan	venezuelan 🇻🇪
+Venezuela	Venezuela 🇻🇪
+Venezuelan	Venezuelan 🇻🇪
 versus	versus 🆚
 vertical	vertical ↕️ 🚦
 vessel	vessel 🚢
 vessels	vessels 🚢
 vest	vest 🦺
 vests	vests 🦺
-vesuvius	vesuvius 🌋
-vhs	vhs 📼
+Vesuvius	Vesuvius 🌋
+VHS	VHS 📼
 vial	vial 🧪
 vials	vials 🧪
 vibration	vibration 📳
@@ -4742,17 +4101,18 @@ victory	victory ✌️
 vicuña	vicuña 🦙
 videocassette	videocassette 📼
 videocassettes	videocassettes 📼
-vietnam	vietnam 🇻🇳
-vietnamese	vietnamese 🇻🇳
+Vietnam	Vietnam 🇻🇳
+Vietnamese	Vietnamese 🇻🇳
 villain	villain 🦹‍♀️ 🦹‍♂️
 villains	villains 🦹‍♀️ 🦹‍♂️
-vincentian	vincentian 🇻🇨
+Vincentian	Vincentian 🇻🇨
 vineyard	vineyard 🍇
 vino	vino 🍷
 violin	violin 🎻
 violins	violins 🎻
-virgin	virgin ♍️ 🇻🇬 🇻🇮
-virgo	virgo ♍️
+virgin	virgin ♍️
+Virgin Islands	Virgin Islands 🇻🇬 🇻🇮
+Virgo	Virgo ♍️
 virus	virus 🦠
 viruses	viruses 🦠
 vocalist	vocalist 👨‍🎤 👩‍🎤
@@ -4772,7 +4132,7 @@ votes	votes 🗳
 voting	voting 🗳
 vroom	vroom 🏎
 vs	vs 🆚
-vulcan	vulcan 🖖
+Vulcan	Vulcan 🖖
 waa	waa 😩 😭
 waaa	waaa 😩 😭
 waaaa	waaaa 😭
@@ -4783,10 +4143,10 @@ waffle	waffle 🧇
 waffles	waffles 🧇
 wah	wah 😩 😭
 wailing	wailing 😭
-wales	wales 🏴󠁧󠁢󠁷󠁬󠁳󠁿
+Wales	Wales 🏴󠁧󠁢󠁷󠁬󠁳󠁿
 walk	walk 🏴‍☠️
 walking	walking 🚶‍♀️ 🚶‍♂️
-wallis	wallis 🇼🇫
+Wallis	Wallis 🇼🇫
 waning	waning 🌖 🌘
 warm	warm 🥰
 warning	warning ☢️ ☣️ ⚠️
@@ -4807,7 +4167,7 @@ waves	waves 🌊
 wavy	wavy 〰️ 🥴
 wax	wax 🕯
 waxing	waxing 🌒 🌔
-wc	wc 🚻 🚽 🚾
+WC	WC 🚻 🚽 🚾
 we	we 🙌 🛬
 wear	wear 🤓
 wearing	wearing 🤓
@@ -4821,9 +4181,9 @@ weightlifting	weightlifting 🏋️‍♀️ 🏋️‍♂️
 welcome	welcome 🙏
 welder	welder 👨‍🏭 👩‍🏭
 well	well 👍
-welsh	welsh 🏴󠁧󠁢󠁷󠁬󠁳󠁿
+Welsh	Welsh 🏴󠁧󠁢󠁷󠁬󠁳󠁿
 west	west ⬅️
-western	western 🇪🇭 🏰
+Western Sahara	Western Sahara 🇪🇭 🏰
 whale	whale 🐋 🐳
 whales	whales 🐋 🐳
 what	what 😅
@@ -4895,7 +4255,7 @@ wrestler	wrestler 🤼‍♀️ 🤼‍♂️
 wrestlers	wrestlers 🤼‍♀️ 🤼‍♂️
 wrestling	wrestling 🤼‍♀️ 🤼‍♂️
 wrist	wrist ⌚️
-x	x ❌ ❎ 😵
+X	X ❌ ❎ 😵
 xo	xo 😘 😚
 xoxo	xoxo 💋 😘 😚
 xx	xx 💋 😘 😚
@@ -4918,8 +4278,8 @@ yee	yee 🤠 😎
 yee-haw	yee-haw 🤠
 yeehaw	yeehaw 🤠
 yeeyuh	yeeyuh 😎
-yemen	yemen 🇾🇪
-yemeni	yemeni 🇾🇪
+Yemen	Yemen 🇾🇪
+Yemeni	Yemeni 🇾🇪
 yen	yen 💴 💹
 yep	yep 👍
 yerba	yerba 🧉
@@ -4943,6 +4303,7 @@ yoyo	yoyo 🪀
 yoyos	yoyos 🪀
 yuck	yuck 🤢
 yuebing	yuebing 🥮
+Yule-tree	Yule-tree 🎄
 yule-tree	yule-tree 🎄
 yum	yum 😋
 yummm	yummm 😋
@@ -4950,21 +4311,21 @@ yummy	yummy 🤤 😋
 yup	yup 👍
 yurt	yurt ⛺️ 🏕
 yurts	yurts ⛺️
-zambia	zambia 🇿🇲
-zambian	zambian 🇿🇲
+Zambia	Zambia 🇿🇲
+Zambian	Zambian 🇿🇲
 zany	zany 🤪
 zap	zap ⚡️
 zebra	zebra 🦓
 zebras	zebras 🦓
 zero	zero 👌 0️⃣
-zimbabwe	zimbabwe 🇿🇼
-zimbabwean	zimbabwean 🇿🇼
+Zimbabwe	Zimbabwe 🇿🇼
+Zimbabwean	Zimbabwean 🇿🇼
 zinfandel	zinfandel 🍷
 zipper	zipper 🤐
 zombie	zombie 🧟 🧟‍♀️ 🧟‍♂️
 zombies	zombies 🧟‍♀️ 🧟‍♂️
 zoom	zoom 🏎
-zs	zs 💤 😴
+Zs	Zs 💤 😴
+zz	zz 💤 😴
 zzz	zzz 💤 😴
 Åland	Åland 🇦🇽
-åland	åland 🇦🇽

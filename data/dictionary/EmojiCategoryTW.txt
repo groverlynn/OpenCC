@@ -1,11 +1,11 @@
 CTO	CTO 👨‍💻 👨‍💼 👩‍💻 👩‍💼
-highfive	highfive ✋ 🖐 🙌 🙏
+high-five	high-five ✋ 🖐 🙌 🙏
 kiss	kiss 💋 😗 😘 😙 😚 😽
 lmfao	lmfao 🤣 😂 😜 😝
 lol	lol 🤣 😂 😜 😝
 lols	lols 🤣 😂 😆 😜 😝
 lolz	lolz 🤣 😂 😆 😜 😝
-ohno	ohno 🤦‍♀️ 🤦‍♂️ 😧 😨 😬 😱 🙊
+oh-no	oh-no 🤦‍♀️ 🤦‍♂️ 😧 😨 😬 😱 🙊
 omg	omg 🤯 😆 😮 😯 😱 😲 😳
 party	party 🎁 🎈 🎉 🎊
 wow	wow 🤩 😮 😯 😲 😳
@@ -691,7 +691,7 @@ wow	wow 🤩 😮 😯 😲 😳
 金錢	金錢 💰 💴 💵 💷 💸 🤑
 鈔票	鈔票 💰 💴 💵 💷 💸 🤑
 錫	錫 💋 😗 😘 😙 😚
-鍾	鍾 ⌚️ ⏰ 🕐 🕑 🕒 🕓 🕔 🕕 🕖 🕗 🕘 🕙 🕚 🕛 🕜 🕝 🕞 🕟 🕠 🕡 🕢 🕣 🕤 🕥 🕦 🕧 🕰
+鐘	鐘 ⌚️ ⏰ 🕐 🕑 🕒 🕓 🕔 🕕 🕖 🕗 🕘 🕙 🕚 🕛 🕜 🕝 🕞 🕟 🕠 🕡 🕢 🕣 🕤 🕥 🕦 🕧 🕰
 鎖頭	鎖頭 🔏 🔐 🔒 🔓 🗝
 鐵馬	鐵馬 🚲 🚴‍♀️ 🚴‍♂️ 🚵‍♀️ 🚵‍♂️
 鐵馬騎士	鐵馬騎士 🚴‍♀️ 🚴‍♂️ 🚵‍♀️ 🚵‍♂️
